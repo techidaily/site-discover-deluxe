@@ -1,7 +1,7 @@
 ---
 title: What's New in Splash v2.0? Exploring the Latest Features and Changes
-date: 2024-09-14T06:49:15.804Z
-updated: 2024-09-21T05:55:47.235Z
+date: 2024-09-18T18:38:42.330Z
+updated: 2024-09-25T21:39:26.591Z
 tags:
   - product
 categories:
@@ -50,10 +50,10 @@ Windows Vista, 7, 8, 8.1, 10, 11
 07/03/2019 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Splash 2.6.1 is now available!
@@ -67,10 +67,16 @@ Windows Vista, 7, 8, 8.1, 10, 11
 05/03/2019 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Splash 2.6.0 with HDR and HDR10 support is now available!
@@ -108,6 +114,13 @@ Windows Vista, 7, 8, 8.1, 10, 11
 
 06/02/2019 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Splash 2.3.0 is now available! (FREE for everyone!)
 
 **What's new in Splash 2.3.0?**
@@ -122,13 +135,6 @@ Windows Vista, 7, 8, 8.1, 10, 11
 [Read more and download the latest Splash version](https://tools.techidaily.com/mirillis/products/) 
 
 28/12/2018 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Splash 2.2.0 is now available!
 
@@ -156,6 +162,13 @@ Windows Vista, 7, 8, 8.1, 10, 11
 [Read more and download the latest Splash version](https://tools.techidaily.com/mirillis/products/)   
 
 11/05/2016 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Splash 2.0.4 is now available!
 
@@ -207,5 +220,24 @@ Export and upload your recordings to YouTube™
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-boost-your-buzz-factor-with-these-3-dynamic-approaches-to-youtube-video-reactions/"><u>[Updated] 2024 Approved Boost Your Buzz Factor with These 3 Dynamic Approaches to YouTube Video Reactions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/5-frosty-yet-inviting-backdrops-for-your-vids-for-2024/"><u>5 Frosty Yet Inviting Backdrops for Your Vids for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/5oqv56i6act5oyr77ya44ol44kz44ol44kz5yuv55s744gn5lik5oml44gp44ge44gl44gq44ge5y6f5zug44o76kej5rai5rov/"><u>投稿頓挫：ニコニコ動画で上手くいかない原因・解消法</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/5pya5paw44gu5yuv55s757iu5bcp44k944ov44oi44km44kn44ki77ya44ot44od44kw44k144kk44k644ot44oh44kq44ks5yq5546h6imv44gp56plusa57se44gx44ki44gg/"><u>最新の動画縮小ソフトウェア：ビッグサイズビデオを効率良く節約しよう</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1726029483867-amr/"><u>AMR音楽をスムーズに流す方法と、再生時の問題解決技術</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-git-proficiency-with-github-desktop-on-windows-11/"><u>Boost Your Git Proficiency with Github Desktop on Windows 11</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/bypassing-the-limits-effective-ways-to-share-big-files-on-discord-without-premium/"><u>Bypassing the Limits: Effective Ways to Share Big Files on Discord Without Premium</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/comprehensive-tutorial-for-integrating-the-crew-sports-plug-in-with-kodi-software-build-v19-matrix-edition/"><u>Comprehensive Tutorial for Integrating The Crew Sports Plug-In with Kodi Software - Build v19 Matrix Edition</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/flac-aiff-aiff-flac/"><u>FLAC から AIFF へ、AIFF から FLAC への変換法 - 徹底解説</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/free-mp4-editing-tutorial-a-step-by-step-guide-on-windows/"><u>Free MP4 Editing Tutorial: A Step by Step Guide on Windows</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/frequently-asked-questions-comprehensive-answers-youve-been-searching-for/"><u>Frequently Asked Questions: Comprehensive Answers You've Been Searching For</u></a></li>
+<li><a href="https://fox-http.techidaily.com/notable-book-trailers-showcasing-stories-for-2024/"><u>Notable Book Trailers Showcasing Stories for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-replacing-your-ipads-battery-safely-and-effectively/"><u>Step-by-Step Guide: Replacing Your iPad's Battery Safely and Effectively</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-on-modern-workloads-the-gigabyte-b760m-ds3h-ax-revealed-entry-level-motherboard-for-three-monitor-setups/"><u>Taking on Modern Workloads - The Gigabyte B760M DS3H AX Revealed: Entry-Level Motherboard for Three Monitor Setups</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-2024-guide-leading-free-software-against-malware-threats/"><u>The 2024 Guide: Leading Free Software Against Malware Threats</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-techniques-for-streamlining-console-video-saves/"><u>Top Techniques for Streamlining Console Video Saves</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+</ul></div>
 
