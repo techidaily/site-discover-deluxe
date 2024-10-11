@@ -1,7 +1,7 @@
 ---
 title: What's New in Splash v2.0? Exploring the Latest Features and Changes
-date: 2024-10-02T18:55:07.489Z
-updated: 2024-10-05T18:50:03.302Z
+date: 2024-10-04T07:35:04.761Z
+updated: 2024-10-11T02:57:02.613Z
 tags:
   - product
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 
 ## Splash update history
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The record of updates of ultimate video player
 
 See the history of changes and learn how Splash has become the one-of-a-kind video player. Many of the amazing features, that makes users' life so much easier, have been implemented over time.
@@ -34,6 +41,13 @@ Windows Vista, 7, 8, 8.1, 10, 11
 [Download](https://tools.techidaily.com/mirillis/products/) 
 
 24/06/2019 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Splash 2.7.0 is now available!
 
@@ -60,10 +74,10 @@ Windows Vista, 7, 8, 8.1, 10, 11
 05/03/2019 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Splash 2.6.0 with HDR and HDR10 support is now available!
@@ -88,10 +102,10 @@ Windows Vista, 7, 8, 8.1, 10, 11
 17/02/2019 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Splash 2.4.0 with Motion2 UHD/4K is now available! 
@@ -108,13 +122,6 @@ Windows Vista, 7, 8, 8.1, 10, 11
 
 06/02/2019 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Splash 2.3.0 is now available! (FREE for everyone!)
 
 **What's new in Splash 2.3.0?**
@@ -129,13 +136,6 @@ Windows Vista, 7, 8, 8.1, 10, 11
 [Read more and download the latest Splash version](https://tools.techidaily.com/mirillis/products/) 
 
 28/12/2018 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Splash 2.2.0 is now available!
 
@@ -216,22 +216,14 @@ Export and upload your recordings to YouTube™
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-a-guide-to-thriving-as-a-digital-creator/"><u>2024 Approved A Guide to Thriving as a Digital Creator</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-full-screen-potential-on-youtube-videos/"><u>2024 Approved Unlock Full Screen Potential on YouTube Videos</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/comprehensive-tutorial-effortlessly-eliminate-pc-app-store-malware/"><u>Comprehensive Tutorial: Effortlessly Eliminate PC App Store Malware</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/easy-conversion-tips-changing-pdfs-into-word-format-for-users-of-macos-mojave/"><u>Easy Conversion Tips: Changing PDFs Into Word Format for Users of macOS Mojave</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/effective-techniques-for-impeccable-teamspeak-management/"><u>Effective Techniques for Impeccable TeamSpeak Management</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-to-effortlessly-convert-and-share-microsoft-word-files-on-your-iphone/"><u>How to Effortlessly Convert and Share Microsoft Word Files on Your iPhone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/how-to-shoot-vertical-panorama-photos-with-your-mobile-phone-for-2024/"><u>How to Shoot Vertical Panorama Photos with Your Mobile Phone for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-motorola-moto-g-stylus-5g-2023-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Motorola Moto G Stylus 5G (2023) Phone Hassle-Free</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-12-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi 12 5G Device</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/is-mac-pop-up-software-harmful-learn-how-to-safely-remove-them-and-protect-your-system-with-advice-from-malwarefox/"><u>Is Mac Pop-Up Software Harmful? Learn How to Safely Remove Them and Protect Your System with Advice From MalwareFox</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/mastering-tamper-protection-a-step-by-step-guide-to-securing-your-windows-10-system-against-hacks/"><u>Mastering Tamper Protection: A Step-by-Step Guide to Securing Your Windows 10 System Against Hacks</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-in-2024-how-to-record-and-edit-an-animoji-or-memoji-karaoke-music-video/"><u>New In 2024, How to Record and Edit an Animoji or Memoji Karaoke Music Video?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/procase-macbook-pro-13-case-review/"><u>ProCase MacBook Pro 13 Case Review</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/the-ultimate-list-of-top-7-knowledge-management-systems-for-effective-collaboration-in-2eoo/"><u>The Ultimate List of Top 7 Knowledge Management Systems for Effective Collaboration in 2Eoo</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/top-rated-photo-enhancing-software-the-ultimate-background-editor/"><u>Top Rated Photo Enhancing Software: The Ultimate Background Editor</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-guide-to-the-best-high-res-capture-software-for-2024/"><u>Ultimate Guide to the Best High-Res Capture Software for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-itel-a05s-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Itel A05s Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-masterclass-analyzing-the-updated-lg-bp550-for-2024/"><u>[New] Masterclass Analyzing the Updated LG BP550 for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-top-30-video-concepts-for-engaging-audiences/"><u>[New] Top 30 Video Concepts for Engaging Audiences</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-practices-in-choosing-the-perfect-format-for-youtube-videos-for-2024/"><u>[Updated] Best Practices in Choosing the Perfect Format for YouTube Videos for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1-best-no-cost-screen-capture-sites-online/"><u>1. Best No-Cost Screen Capture Sites Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-rising-tide-of-infographics-for-social-insights/"><u>2024 Approved The Rising Tide of Infographics for Social Insights</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/complete-walkthrough-navigating-and-winning-in-diablo-immortal-for-mac-users/"><u>Complete Walkthrough: Navigating and Winning in Diablo Immortal for Mac Users</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/screen-with-televisions-how-to-for-perfect-mirroring-results/"><u>Screen with Televisions: How-To for Perfect Mirroring Results</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722995532852-solving-the-halo-infinite-audio-glitch-no-more-stutters/"><u>Solving the Halo Infinite Audio Glitch: No More Stutters!</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/ultimate-tutorial-capturing-movies-and-clips-on-macos-with-the-apowersoft-video-downloader-app/"><u>Ultimate Tutorial: Capturing Movies and Clips on macOS with the Apowersoft Video Downloader App</u></a></li>
 </ul></div>
 

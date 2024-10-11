@@ -1,7 +1,7 @@
 ---
 title: Protecting Your Windows 11 System with DIY USB Security Keys - A Comprehensive Tutorial
-date: 2024-09-30T17:54:03.499Z
-updated: 2024-10-05T21:24:58.232Z
+date: 2024-10-08T08:08:01.651Z
+updated: 2024-10-11T04:11:48.114Z
 tags:
   - product
   - antivirus
@@ -49,10 +49,10 @@ You can get such a physical security key from the manufacturer like Yubikey, Goo
 The cheaper alternative is creating your own USB login key. However, for that, you have to compromise one of your USB drives or get an affordable Pendrive specifically for this purpose. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pros and Cons of the Physical Security Key
@@ -67,13 +67,6 @@ Every coin has two sides. Likewise, security keys also have two sides, positive 
 
 [How to Remove Virus Alert from Microsoft Edge?](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Cons:**
 
 * If you damage or lose the physical key, the recovery is possible but by a long and lethargic process.
@@ -82,11 +75,25 @@ Every coin has two sides. Likewise, security keys also have two sides, positive 
 
 So, these are the Pros and Cons of the Physical Security key. Weigh them keeping your preference in mind and then choose whether to go for it or not.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to create a USB Security Key on Windows 10?
 
 You can create a USB security key on Windows 10 using an in-built program – **Windows BitLocker.** However, this method would only work for Pro and Enterprise versions of Windows as the Home version does not come with BitLocker.
 
 The first step is to enable the BitLocker on your system Drive, that is, the drive where the Windows 10 is installed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Enable Bitlocker**
 
@@ -99,13 +106,6 @@ The first step is to enable the BitLocker on your system Drive, that is, the dri
 – Follow the on-screen steps, and at the end, click on “**Start encrypting.**“
 
 ![Start encrypting](https://www.malwarefox.com/wp-content/uploads/2020/06/Bitlocker-encryption.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 – Your system would restart, and then encryption would begin, which would take some time, depending on the size of the drive.
 
@@ -140,6 +140,13 @@ That’s it. The security key is created, and you would be asked to insert it wh
 
 If you are a Windows 10 home user or you didn’t want to use the complicated method of Windows Bitlocker to create your USB security key, then some third-party applications could help you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **USB Raptor**
 
 ![USB Raptor security key](https://www.malwarefox.com/wp-content/uploads/2020/06/usb-raptor.jpg)
@@ -152,16 +159,16 @@ With Raptor, you can link the key to the serial number of the drive. The only pr
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Predator**
 
 ![Predator USB security key](https://www.malwarefox.com/wp-content/uploads/2020/06/predator.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Predator is another popular program to turn a USB into a physical security key. After the USB drive is converted into a security key, your system would only be accessible when the USB is plugged in. As soon as the drive would be plugged out, the computer will be locked automatically.
 
@@ -174,10 +181,10 @@ Installation of the Predator is easy. Download the installation file and open it
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Rohos Logon Key**
@@ -193,6 +200,13 @@ Rohos store your login credential into the USB drive, and during startup, when y
 [Get Rohos Logon Key](http://www.rohos.com/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -216,10 +230,10 @@ While creating a key, you would always be prompted to create a recovery method i
 Robert  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [January 1, 2022 at 2:40 pm](https://tools.techidaily.com/malwarefox/products/)  
@@ -228,23 +242,9 @@ what about windows 11 this is now outdated information I been looking up informa
    * ![](https://secure.gravatar.com/avatar/b078f2f4ee5a7d70f03d2ed3d315f291?s=50&d=mm&r=g)  
    Lukas  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    [February 25, 2022 at 2:41 am](https://tools.techidaily.com/malwarefox/products/)  
    Windows 11 is literally just a reskin of Windows 10 (with a few extra features). All of these should work perfectly fine.  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -271,21 +271,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-how-to-engage-fans-through-real-time-streams-mobile-edition/"><u>[New] How to Engage Fans Through Real-Time Streams Mobile Edition</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-ultimate-guide-to-virtual-reality-gaming-gear/"><u>[New] Ultimate Guide to Virtual Reality Gaming Gear</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1-access-instant-pdf-watermarking-secure-your-documents-with-a-free-pdf-printer-tool/"><u>1. Access Instant PDF Watermarking - Secure Your Documents with a FREE PDF Printer Tool</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1-seamless-music-transfer-ultimate-guide-to-syncing-your-itunes-library-with-an-android-device/"><u>1. Seamless Music Transfer: Ultimate Guide to Syncing Your iTunes Library with an Android Device</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-spotlight-on-snapchat-a-step-by-step-guide/"><u>2024 Approved Spotlight on Snapchat A Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-moto-g04-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Motorola Moto G04</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-hp-network-driver-updates-for-windows-101178-installs-beginner-friendly-guide/"><u>Get the Newest HP Network Driver Updates for Windows 10/11/7/8 Installs – Beginner-Friendly Guide</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/guide-eliminating-unwanted-commercials-from-youtube-on-ios-and-android-devices/"><u>Guide: Eliminating Unwanted Commercials From YouTube on iOS and Android Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-beyond-single-pictures-creating-a-story-with-montages/"><u>In 2024, Beyond Single Pictures Creating a Story with Montages</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagrams-best-captured-moments-made-available-to-iphone-for-2024/"><u>Instagram's Best Captured Moments Made Available to iPhone for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sculpt-custom-language-agents/"><u>Sculpt Custom Language Agents</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/simple-guide-effortless-management-of-android-phone-contacts-from-your-computer/"><u>Simple Guide: Effortless Management of Android Phone Contacts From Your Computer</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-instructions-for-converting-high-quality-flac-audio-to-wav/"><u>Step-by-Step Instructions for Converting High-Quality FLAC Audio to WAV</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/top-5-android-voice-memo-apps-a-comprehensive-review/"><u>Top 5 Android Voice Memo Apps: A Comprehensive Review</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/understanding-botnets-a-beginners-guide-to-their-functioning-explained-simply/"><u>Understanding Botnets: A Beginner's Guide to Their Functioning Explained Simply</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/unveiling-the-secrets-of-mp4-video-files-a-comprehensive-guide/"><u>Unveiling the Secrets of MP4 Video Files: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-decoding-instagrams-legal-framework-for-musicians/"><u>[New] In 2024, Decoding Instagram's Legal Framework for Musicians</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-prime-mac-animation-extractor/"><u>[Updated] Prime Mac Animation Extractor</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instavid-angle-mystery-vertical-reversals-on-the-rise/"><u>2024 Approved InstaVid Angle Mystery Vertical Reversals on the Rise</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-maximizing-business-potential-with-innovative-tiktok-strategies/"><u>2024 Approved Maximizing Business Potential with Innovative TikTok Strategies</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/effortless-methods-to-sync-your-iphone-with-another-iphone-device/"><u>Effortless Methods to Sync Your iPhone with Another iPhone Device</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-simplifying-complications-in-youtube-shorts/"><u>In 2024, Simplifying Complications in YouTube Shorts</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/mastering-the-art-of-taking-snapshots-with-a-windows-phone-device/"><u>Mastering the Art of Taking Snapshots with a Windows Phone Device</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/practical-methods-for-bypassing-an-iphones-passcode-lock/"><u>Practical Methods for Bypassing an iPhone's Passcode Lock</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-a-non-responsive-laptop-mouse-step-by-step-troubleshooting-guide/"><u>Resolving a Non-Responsive Laptop Mouse: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-recording-gameplay-in-pubg-mobile-across-ios-and-android-devices/"><u>Step-by-Step Guide: Recording Gameplay in PUBG Mobile Across iOS & Android Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-atari-the400-mini-reimagined-rediscovering-vintage-computer-game-delights-in-a-contemporary-package/"><u>The Atari THE400 Mini Reimagined - Rediscovering Vintage Computer Game Delights in a Contemporary Package</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-cream-of-the-crop-best-iphone-apps-with-in-depth-reviews/"><u>The Cream of the Crop Best iPhone Apps with In-Depth Reviews</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/the-ultimate-guide-to-flawlessly-transforming-wav-audio-to-m4r/"><u>The Ultimate Guide to Flawlessly Transforming WAV Audio to M4R</u></a></li>
 </ul></div>
 

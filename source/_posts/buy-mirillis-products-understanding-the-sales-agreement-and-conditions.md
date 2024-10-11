@@ -1,7 +1,7 @@
 ---
 title: "Buy Mirillis Products: Understanding the Sales Agreement and Conditions"
-date: 2024-09-30T21:01:32.493Z
-updated: 2024-10-05T22:24:53.350Z
+date: 2024-10-08T16:32:48.120Z
+updated: 2024-10-11T05:06:40.103Z
 tags:
   - product
 categories:
@@ -23,13 +23,6 @@ Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP
 
 Reseller - official partner of Mirillis Ltd. responsible for processing payments and product delivery
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### General conditions
 
 1.1 All software products are licensed not sold.
@@ -47,6 +40,19 @@ Reseller - official partner of Mirillis Ltd. responsible for processing payments
 1.7 All refund terms and conditions are specified in the Returns policy
 
 1.8 Additional terms may apply for volume licensing. If you are interested in volume licensing please contact us at: volume@mirillis.com
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Purchase
 
@@ -67,26 +73,26 @@ Reseller - official partner of Mirillis Ltd. responsible for processing payments
 3.5 Mirillis provides electronic invoices for purchases made via PayPal. Electronic invoice will be sent on your request. Request the invoice after the purchase using: Invoice request form. Electronic invoice will be delivered in 15 days after the end of the month in which license was purchased.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Security
 
 4.1 You are responsible to keep your product serial number (sent by Mirillis in purchase confirmation e-mail) safe. Making product serial number publicly available may result in no access for software upgrades offers, no access for customer/technical support and invalidating your product serial number.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Privacy Policy
 
 5.1 You acknowledge that you have read and you accept our Privacy Policy. If you do not accept [Privacy Policy](https://tools.techidaily.com/mirillis/products/) you must discontinue purchase.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Support and product updates
 
@@ -99,10 +105,10 @@ Reseller - official partner of Mirillis Ltd. responsible for processing payments
 6.4 After product purchase you are entitled to a free updates within purchased product version. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Extended Services for Action! product
@@ -136,20 +142,20 @@ After refund request is accepted by Mirillis all refund processing is done by Pa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-2023s-leading-twitvideos-the-years-hottest-tweets/"><u>[New] 2024 Approved 2023'S Leading TwitVideos The Year's Hottest Tweets</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlock-smart-note-management-via-mematic/"><u>[New] 2024 Approved Unlock Smart Note Management via Mematic</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-deciphering-the-block-code-on-snapchat/"><u>[New] In 2024, Deciphering the Block Code on Snapchat</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-selecting-premium-microphones-for-mac-users-reviewed/"><u>[New] Selecting Premium Microphones for Mac Users (Reviewed)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-nikons-journey-to-excellence-the-4k-camera-review/"><u>2024 Approved Nikon's Journey to Excellence The 4K Camera Review</u></a></li>
-<li><a href="https://fox-access.techidaily.com/cutting-edge-tools-for-optimal-yt-titles/"><u>Cutting-Edge Tools for Optimal YT Titles</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/download-premium-ios-ringtone-pack-enjoy-free-iphone-x-tones/"><u>Download Premium iOS Ringtone Pack: Enjoy FREE iPhone X Tones</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/effortless-methods-to-sync-your-iphone-with-another-iphone-device/"><u>Effortless Methods to Sync Your iPhone with Another iPhone Device</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-how-does-fongo-stack-up-in-the-canadian-voice-over-ip-market/"><u>In-Depth Review: How Does Fongo Stack Up in the Canadian Voice over IP Market?</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/mastering-the-art-of-taking-snapshots-with-a-windows-phone-device/"><u>Mastering the Art of Taking Snapshots with a Windows Phone Device</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/practical-methods-for-bypassing-an-iphones-passcode-lock/"><u>Practical Methods for Bypassing an iPhone's Passcode Lock</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-recording-gameplay-in-pubg-mobile-across-ios-and-android-devices/"><u>Step-by-Step Guide: Recording Gameplay in PUBG Mobile Across iOS & Android Devices</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/the-ultimate-guide-to-flawlessly-transforming-wav-audio-to-m4r/"><u>The Ultimate Guide to Flawlessly Transforming WAV Audio to M4R</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unsilenced-apple-top-techniques-for-restoring-notifications-and-sounds-to-your-iphone/"><u>Unsilenced Apple: Top Techniques for Restoring Notifications and Sounds to Your iPhone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/windows-10mov/"><u>Windows 10のMOVファイル再生ガイド - 成功確実！</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nveiling-the-art-of-auditory-enhancement-on-youtube-for-2024/"><u>[New] Unveiling the Art of Auditory Enhancement on YouTube for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-surging-interest-through-effective-strategies-for-fb-giveaway-promotions/"><u>[Updated] Surging Interest Through Effective Strategies for FB Giveaway Promotions</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1-seamless-iphone-video-restoration-how-to-quickly-retrieve-deleted-footage-from-your-device/"><u>1. Seamless iPhone Video Restoration: How to Quickly Retrieve Deleted Footage From Your Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone | Stellar</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/best-audio-file-converter-software-compatible-with-windows-11/"><u>Best Audio File Converter Software Compatible with Windows 11</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/complete-walkthrough-how-to-replicate-your-phones-content-from-google-pixel-e-to-desktop-pc/"><u>Complete Walkthrough: How to Replicate Your Phone's Content From Google Pixel E to Desktop PC</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/efficient-methods-for-adding-sound-content-on-your-youtube-channel/"><u>Efficient Methods for Adding Sound Content on Your YouTube Channel</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/fast-and-easy-ways-to-transfer-pictures-between-an-ipad-and-mac-computers/"><u>Fast and Easy Ways to Transfer Pictures Between an iPad and Mac Computers</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/quick-and-simple-guide-achieving-a-bright-clean-background-in-your-digital-projects/"><u>Quick and Simple Guide: Achieving a Bright, Clean Background in Your Digital Projects</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/quick-tip-capturing-your-iphones-display-with-ios-13-features/"><u>Quick Tip! Capturing Your iPhone's Display with iOS 13 Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/record-breaking-reddit-threads-ranked-1-10/"><u>Record-Breaking Reddit Threads Ranked 1-10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-desired-visionos-enhancements-hopes-for-apples-big-reveal-at-wwdc/"><u>Top 10 Desired VisionOS Enhancements: Hopes for Apple's Big Reveal at WWDC!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/outube-cameras-a-guide-for-novices-and-pros/"><u>Top YouTube Cameras A Guide for Novices & Pros</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unveiling-the-5-prized-webcams-for-ultimate-game-broadcasting-for-2024/"><u>Unveiling the 5 Prized Webcams for Ultimate Game Broadcasting for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win-os-device-compatibility-achieved/"><u>Win OS Device Compatibility Achieved</u></a></li>
 </ul></div>
 
