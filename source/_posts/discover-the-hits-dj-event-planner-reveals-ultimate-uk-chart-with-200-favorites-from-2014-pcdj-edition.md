@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hits: DJ Event Planner Reveals Ultimate UK Chart with 200 Favorites From 2014 - PCDJ Edition"
-date: 2024-11-28T20:46:32.426Z
-updated: 2024-11-30T19:15:07.806Z
+date: 2024-12-02T23:18:33.062Z
+updated: 2024-12-09T01:48:56.272Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ DJ Event Planner compiled this list based on over 2 million song requests made u
 For the entire list of 200 most requested songs in the UK in 2014 click [HERE](http://djeventplanner.com/mostrequesteduk.htm)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,19 +59,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/toprequestedsongs-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-enrich-your-tweeting-experience-the-ultimate-toolkit-review-for-2024/"><u>[New] Enrich Your Tweeting Experience The Ultimate Toolkit Review for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-useful-tips-and-apps-for-taking-amazing-android-photography/"><u>[New] In 2024, Useful Tips and Apps for Taking Amazing Android Photography</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-leading-meaningful-conversations-an-interviewers-journey/"><u>[Updated] Leading Meaningful Conversations An Interviewer's Journey</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-renowned-backdrop-alternatives-pixelpioneers-secret-for-2024/"><u>[Updated] Renowned Backdrop Alternatives PixelPioneer's Secret for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/come-recuperare-un-backup-del-sistema-windows-con-aomei-backupper-consigli-e-tutorial-essenziali/"><u>Come Recuperare Un Backup Del Sistema Windows Con AOMEI Backupper: Consigli E Tutorial Essenziali</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/effiziente-methoden-zum-abgleich-von-dateien-und-ordnern/"><u>Effiziente Methoden Zum Abgleich Von Dateien Und Ordnern</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-on-maintaining-a-reliable-skype-connection-top-10-tips/"><u>Expert Advice on Maintaining a Reliable Skype Connection – Top 10 Tips</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/first-time-filmmaker-guide-setting-up-logitech-cam/"><u>First-Time Filmmaker Guide Setting up Logitech Cam</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-no-cost-digital-revenue-prognosticator/"><u>In 2024, No-Cost Digital Revenue Prognosticator</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-editing-in-garageband/"><u>Mastering the Art of Editing in GarageBand</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/solving-the-cannot-format-issue-on-your-sandisk-sd-card-a-step-by-step-guide/"><u>Solving the 'Cannot Format' Issue on Your Sandisk SD Card: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-replacing-your-vsphere-vcenter-encryption-key/"><u>Step-by-Step Guide: Replacing Your vSphere vCenter Encryption Key</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/pelinux-live-uefi/"><u>ハードディスク初期化用のPE/Linux Liveメディア作成ガイド - UEFI互換方法を詳説する</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-weaving-digital-tapestries-with-loom/"><u>[New] In 2024, Weaving Digital Tapestries with Loom</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-leading-speech-gatherers-in-educational-environments-for-2024/"><u>[Updated] Leading Speech Gatherers in Educational Environments for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/9-great-places-to-play-free-preschool-games/"><u>9 Great Places to Play Free Preschool Games</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/exploring-the-start-date-of-ancient-chinas-three-kingdoms-era-a-comprehensive-guide/"><u>Exploring the Start Date of Ancient China's Three Kingdoms Era: A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-lenovo-bluetooth-hitches-in-win11/"><u>Fixing Lenovo Bluetooth Hitches in Win11</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-to-fix-blurry-or-bad-image-output-with-your-scanner-expert-advice-by-yl-software/"><u>How to Fix Blurry or Bad Image Output with Your Scanner - Expert Advice by YL Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/identifying-key-factors-in-gpu-breakdowns-expert-analysis-by-yl-software/"><u>Identifying Key Factors in GPU Breakdowns - Expert Analysis by YL Software</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/integrating-zoom-and-skype-the-ultimate-guide-to-efficient-video-calls-for-2024/"><u>Integrating Zoom and Skype The Ultimate Guide to Efficient Video Calls for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/partytymes-2018-premier-karaoke-selection-elevate-your-events-with-fresh-releases-and-a-tailored-pcdj-monthly-service/"><u>Partytyme's 2018 Premier Karaoke Selection - Elevate Your Events with Fresh Releases and a Tailored PCDJ Monthly Service!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-defective-memory-units-expert-advice-from-yl-software/"><u>Troubleshooting Defective Memory Units: Expert Advice From YL Software</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-frequent-laptop-freezes-with-yl-computing-solutions/"><u>Troubleshooting Frequent Laptop Freezes with YL Computing Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unveiling-the-top-8-accelerating-youtube-communities-for-2024/"><u>Unveiling the Top 8 Accelerating YouTube Communities for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/updating-your-computers-device-drivers-a-simple-guide-expert-advice-from-yl-computing/"><u>Updating Your Computer's Device Drivers: A Simple Guide - Expert Advice From YL Computing</u></a></li>
 </ul></div>
 

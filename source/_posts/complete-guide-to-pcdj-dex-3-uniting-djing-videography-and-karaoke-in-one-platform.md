@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide to PCDJ Dex 3: Uniting DJing, Videography, and Karaoke in One Platform"
-date: 2024-11-29T21:07:54.378Z
-updated: 2024-11-30T23:14:27.705Z
+date: 2024-12-04T18:22:33.279Z
+updated: 2024-12-08T20:53:03.935Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ Adam Lawson has worked in the DJ business for close to 20 years. He recently pos
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **My PCDJ DEX 3 Review: The latest and most versatile DJ software available on the market**
@@ -31,7 +31,7 @@ When purchasing [DJ mixing software](https://tools.techidaily.com/pcdj/products/
 [![DEX 3 - 2 Deck Skin](https://i1.wp.com/www.pcdj.com/wp-content/uploads/2014/08/2deckskin-final-300x168.jpg?resize=300%2C168&ssl=1 "2deckskin-final")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/2deckskin-final.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This Pro DJ Software _for MAC and Windows_ allows for total control of all your media files – music videos and audio tracks, even karaoke files. The video mixing section offers three video preview displays for left, right and live…with a quality collection of select-able video transition effects. The intuitive user-interface is easy to navigate even with the many new features it offers because they are right where you expect them to be.
@@ -41,7 +41,7 @@ The currently included audio effects are _echo, reverb, flanger &_ _beatwaw_ _(a
 [![](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/09/dex3onmac-300x184.png?resize=300%2C184&ssl=1 "dex3onmac")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/dex3onmac.png?fit=577%2C355&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The DEX 3 browser, in my opinion, is by far the easiest to use out there. iTunes integration is seamless _(if you store your iTunes playlists in the default location DEX 3 will just pick them up dynamically!),_ and imports your play lists straight from iTunes the first time you open up the software. Or you can add music from a folder on your hard drive by setting up folders as favorites too, which is basically a one-click operation.
@@ -55,7 +55,7 @@ _**Thanks Adam!**_
 For a free download of the DEX 3 demo version please visit [HERE](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,16 +77,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/09/dex3review-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-smart-shoppers-guide-to-top-gaming-mice-and-keyboards/"><u>[New] Smart Shoppers' Guide to Top Gaming Mice & Keyboards</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-top-5-revelations-for-novice-advertisers-to-master-promotion-for-2024/"><u>[New] Top 5 Revelations for Novice Advertisers to Master Promotion for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-missing-hp-support-in-windows-1110/"><u>[Print] Missing HP Support in Windows 11/10</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-instant-illusions-mastering-time-lapse-photography-on-samsung/"><u>[Updated] Instant Illusions Mastering Time-Lapse Photography on Samsung</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/come-facilmente-efficiente-sincronizzazione-dei-dati-tra-due-server/"><u>Come Facilmente Efficiente Sincronizzazione Dei Dati Tra Due Server</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/de-strijken-om-de-meest-niet-afgehaalden-fotos-van-jouw-televisie-tablet-en-smartphone-na-herstel/"><u>De Strijken Om De Meest Niet-Afgehaalden Foto's Van Jouw Televisie, Tablet En Smartphone Na Herstel</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-elements-in-selecting-chatgpt-for-psychological-support/"><u>Essential Elements in Selecting ChatGPT for Psychological Support</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-kootek-notebook-thermal-management-pad-an-impressive-cross-platform-selection/"><u>Evaluating the Kootek Notebook Thermal Management Pad - An Impressive Cross-Platform Selection</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/guia-incremental-para-cambiar-el-hdd-por-un-samsung-evo-850-ssd/"><u>Guía Incremental Para Cambiar El HDD Por Un Samsung EVO 850 SSD</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/retrieve-missing-onedrive-documents-a-guide-to-restoration-using-eight-effective-methods/"><u>Retrieve Missing OneDrive Documents: A Guide to Restoration Using Eight Effective Methods</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-13-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 13 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/compelling-choices-macs-excellent-snipping-tools-for-2024/"><u>Compelling Choices Mac's Excellent Snipping Tools for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-did-the-treaty-of-versailles-impact-chinas-position-insights-from-yl-computing-and-yl-software-experts/"><u>How Did the Treaty of Versailles Impact China's Position - Insights From YL Computing & YL Software Experts</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-songbookdb-can-enhance-your-vocalists-experience-a-comprehensive-guide/"><u>How SongbookDB Can Enhance Your Vocalists' Experience: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-x-flip-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo X Flip</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/step-by-step-guide-overcoming-dvd-region-lock-restrictions/"><u>Step-by-Step Guide: Overcoming DVD Region Lock Restrictions</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-techniques-for-malfunctioning-displays-insights-from-yl-computing/"><u>Troubleshooting Techniques for Malfunctioning Displays: Insights From YL Computing</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-your-hard-disk-errors-made-easy-with-yl-softwares-expert-advice/"><u>Troubleshooting Your Hard Disk Errors Made Easy with YL Software's Expert Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-pc-with-the-latest-usb-30-ethernet-driver-compatible-with-windows/"><u>Update Your PC with the Latest USB 3.0 Ethernet Driver Compatible with Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 评量宋代文景之治对中国古代政治发展影响
-date: 2024-11-28T01:01:42.722Z
-updated: 2024-11-30T16:20:13.854Z
+date: 2024-12-04T01:52:20.742Z
+updated: 2024-12-09T03:56:51.411Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,24 +56,24 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-docs.techidaily.com/1726226336473-mkv-swf-movavi/"><u>免费在线将 MKV 文件转换为 SWF：利用 Movavi 工具进行便捷转换</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/best-of-the-best-comparing-top-3-leading-photo-deletion-restoration-apps/"><u>Best of the Best: Comparing Top 3 Leading Photo Deletion Restoration Apps</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/comment-cloner-avec-succes-un-systeme-dexploitation-windows-10-sur-un-ssd-compact/"><u>Comment Cloner Avec Succès Un Système D'Exploitation Windows 10 Sur Un SSD Compact</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/echec-de-la-prise-dexclusivite-par-le-systeme-de-sauvegarde-windows-7-strategies-alternatives/"><u>Échec De La Prise D'Exclusivité Par Le Système De Sauvegarde Windows: 7 Stratégies Alternatives</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/effective-techniques-to-remove-superfluous-data/"><u>Effective Techniques to Remove Superfluous Data</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How To Pause Life360 Location Sharing For Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-samsung-galaxy-s24-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tapping-into-traditional-hymns-downloads-and-editing-guide/"><u>In 2024, Tapping Into Traditional Hymns Downloads & Editing Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-get-the-great-1080p-video-editing-software-to-edit-1080p-videos/"><u>New 2024 Approved Get the Great 1080P Video Editing Software to Edit 1080P Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/re-enrollment-a-guide-to-resurrecting-microsoft-store-apps/"><u>Re-Enrollment: A Guide to Resurrecting Microsoft Store Apps</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/resolving-call-issues-on-your-iphone-post-ios-18-update/"><u>Resolving Call Issues on Your iPhone Post-iOS 18 Update</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/schritte-zum-generieren-eines-recovery-laufwerks-fur-windows-11-mit-dem-dell-tool-eine-detaillierte-anleitung-fur-die-systemreparatur/"><u>Schritte Zum Generieren Eines Recovery-Laufwerks Für Windows 11 Mit Dem Dell-Tool: Eine Detaillierte Anleitung Für Die Systemreparatur</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tailoring-the-windows-11-ui-to-prompt-users-for-system-updates/"><u>Tailoring the Windows 11 UI to Prompt Users for System Updates</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/tenokan-bersama-menemukan-file-yang-hilang-pada-windows-1011-dengan-jawaban-10-cara/"><u>Tenokan Bersama: Menemukan File Yang Hilang Pada Windows 10/11 Dengan Jawaban 10 Cara!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210270642-9781250773838-the-body-code/"><u>The Body Code | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-in-hardware-through-toms-reviews/"><u>Unveiling the Latest in Hardware Through Tom's Reviews</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/verlorene-excel-spreadsheet-wiederauffinden-tipps-zur-wiederherstellung-vom-desktop/"><u>Verlorene Excel Spreadsheet Wiederauffinden: Tipps Zur Wiederherstellung Vom Desktop</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/44oh44kj44k544kv44ob44kn44od44kv44gn44ov44kh44kk44or44gm5rai5asxitjganjgybjgotjgapjgablm57lvqnjgzxjgzvjgb7jgznjgys/"><u>ディスクチェックでファイルが消失!?どうやって回復させますか?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/mp4and3/"><u>ビデオの静止画素晴らし！MP4からキャプチャ&保存：3つのシンプル方法を解説</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-eco-effect-filmmaking-youtubes-guide-to-green-magic/"><u>[New] Eco-Effect Filmmaking YouTube's Guide to Green Magic</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-enhancing-productivity-a-guide-to-ez-grabbers-use/"><u>[Updated] Enhancing Productivity A Guide to EZ Grabber's Use</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-advanced-method-for-combining-gopro-footage-with-full-spherical-vids/"><u>[Updated] In 2024, Advanced Method for Combining GoPro Footage with Full Spherical Vids</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-creating-compelling-content-with-personalized-video-setups/"><u>[Updated] In 2024, Creating Compelling Content with Personalized Video Setups</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-samsung-galaxy-a25-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Samsung Galaxy A25 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieve-balance-in-visuals-through-aspect-choices/"><u>Achieve Balance in Visuals Through Aspect Choices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-6-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 6? Find the Best Solution Here</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/exploring-the-impact-of-storage-device-issues-on-cpu-functionality-a-guide-from-yl-software-experts/"><u>Exploring the Impact of Storage Device Issues on CPU Functionality – A Guide From YL Software Experts</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/guide-monitoring-your-computers-component-heat-levels-with-yl-computing-tools/"><u>Guide: Monitoring Your Computer's Component Heat Levels with YL Computing Tools</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-to-troubleshoot-when-your-pc-fails-to-recognize-wifi-insights-from-yl-computings-expert-advice/"><u>How to Troubleshoot When Your PC Fails to Recognize WiFi: Insights From YL Computing's Expert Advice</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/karaoke-conductors-guide-to-glorious-performances-unveiling-10-professional-secrets-for-newcomers-with-pcdj-software/"><u>Karaoke Conductor's Guide to Glorious Performances: Unveiling 10 Professional Secrets for Newcomers with PCDJ Software</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/maximize-your-pcs-storage-proven-methods-for-clearing-up-disk-space-tips-from-yl-computing/"><u>Maximize Your PC's Storage: Proven Methods for Clearing Up Disk Space - Tips From YL Computing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/powershot-sx740-hs-where-size-meets-quality/"><u>PowerShot SX740 HS - Where Size Meets Quality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/fication-of-injustice-for-2024/"><u>Rectification of Injustice for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/reviving-silent-sound-systems-yl-softwares-guide-to-repairing-non-functional-audio-output-devices/"><u>Reviving Silent Sound Systems: YL Software's Guide to Repairing Non-Functional Audio Output Devices</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/which-graphics-card-models-have-higher-risk-of-malfunction/"><u>Which Graphics Card Models Have Higher Risk of Malfunction?</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/yl-softwares-essential-tips-for-regularly-refreshing-your-graphic-drivers/"><u>YL Software's Essential Tips for Regularly Refreshing Your Graphic Drivers</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/yl-softwares-ultimate-troubleshooting-tips-for-faulty-keyboards-and-mice/"><u>YL Software's Ultimate Troubleshooting Tips for Faulty Keyboards & Mice</u></a></li>
 </ul></div>
 
