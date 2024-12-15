@@ -1,7 +1,7 @@
 ---
 title: "Year in Focus: Unveiling the Highlights and Milestones of PCDJ's Remarkable 201 6 Adventure"
-date: 2024-12-07T00:04:14.190Z
-updated: 2024-12-09T07:13:14.851Z
+date: 2024-12-08T17:43:34.862Z
+updated: 2024-12-14T17:14:59.503Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ Highlights From 2016
@@ -41,7 +41,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * Released a revamped DJ controller detection protocol that allows for real-time detection of DJ controllers, even while mixing. DJs can also use up to 8 DJ controller simultaneously, with zero-configure support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Added support for 10 [DJ controllers](https://tools.techidaily.com/pcdj/products/) from some of the biggest DJ equipment providers in the business, including support for the [Pioneer DDJ-SB2](https://tools.techidaily.com/pcdj/products/), [DDJ-RR and DDJ-RB](https://tools.techidaily.com/pcdj/products/). The [Hercules DJControl JogVision](https://tools.techidaily.com/pcdj/products/) and [Hercules P32](https://tools.techidaily.com/pcdj/products/) controllers. [Reloop RMP-4](https://tools.techidaily.com/pcdj/products/) and [Mixon 4](https://tools.techidaily.com/pcdj/products/) are also now plug-and-play with both [DEX 3](https://tools.techidaily.com/pcdj/products/) and [DEX 3 RE](https://tools.techidaily.com/pcdj/products/) DJ programs.
@@ -57,7 +57,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * New [“Search Results” view](https://tools.techidaily.com/pcdj/products/) that expands the rotation list the entire right-hand side of the Karaoki browser with search results displaying in the large middle library pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Added [‘Search History’ and large search pop-up](https://tools.techidaily.com/pcdj/products/) – KJs can view all their past song searches and double-click in the smaller search box to display a much larger version.
@@ -75,20 +75,20 @@ When you’re surrounded by a great group of teammates with the same vision and 
 
 [MORE ABOUT JAMMTEXT ![jammtext logo](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/09/jammtext-logo-black.png?fit=300%2C61&ssl=1 "jammtext logo")](https://tools.techidaily.com/pcdj/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As always, we strive to be accessible to our DJ and karaoke software users. We want to ensure that when you have a question it’s answered thoroughly and professionally in a very timely fashion. We updated the PCDJ website to include a new web chat, robust support ticketing tracking system and created new [PCDJ user forums](https://tools.techidaily.com/pcdj/products/).
 
 We found new partners at MixCity Inc, the creators of [JammText](https://tools.techidaily.com/pcdj/products/) – a truly unique, social and interactive text-and-image-to-screen platform that works brilliantly alongside DEX 3 or Karaoki. We plan to bring you even more goodies and better support for JammText throughout 2017.
 
 _**That’s a good look at 2016’s highlights for PCDJ. Please check back next week for a look ahead at what our goals are for 2017!**_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Happy New Year, Friends!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,21 +110,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/pcdj2016yearinreview-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-how-to-record-your-screen-on-windows-8/"><u>[Updated] 2024 Approved How To Record Your Screen On Windows 8</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unleashing-fun-kinemaster-reviewed-for-android-devices/"><u>[Updated] 2024 Approved Unleashing Fun KineMaster Reviewed for Android Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-the-secrets-of-whatsapp-audio-conversations/"><u>[Updated] Unveiling the Secrets of WhatsApp Audio Conversations</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/achieving-peak-efficiency-unleash-your-computers-full-potential-with-yl-software-guidance/"><u>Achieving Peak Efficiency: Unleash Your Computer’s Full Potential with YL Software Guidance</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/analyzing-the-downfall-key-factors-behind-the-fall-of-the-qin-empire-in-206-bc-insights-by-yl-computing/"><u>Analyzing the Downfall: Key Factors Behind the Fall of the Qin Empire in 206 BC - Insights by YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/boost-your-productivity-expert-tips-for-using-google-duet-with-gmail/"><u>Boost Your Productivity: Expert Tips for Using Google Duet with Gmail</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/easy-fixes-for-persistent-network-issues-on-your-pc-with-windows-operating-system-yl-computing-tutorial/"><u>Easy Fixes for Persistent Network Issues on Your PC with Windows Operating System - YL Computing Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-instructions-for-setting-up-your-new-logitech-mouse/"><u>Expert Instructions for Setting Up Your New Logitech Mouse</u></a></li>
-<li><a href="https://win-community.techidaily.com/getting-started-with-digital-coins-essential-steps-and-advice-by-yl-software-professionals/"><u>Getting Started with Digital Coins: Essential Steps and Advice by YL Software Professionals</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/miniature-wallpaper-and-image-packs-featuring-iconic-australia-officially-licensed-by-yl-software/"><u>Miniature Wallpaper & Image Packs Featuring Iconic Australia: Officially Licensed by YL Software</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/postpartum-follow-up-care-high-risk-patients-will-typically-receive-extended-postnatal-care-to-address-any-ongoing-concerns-for-the-mothers-health-as-well-a90/"><u>Postpartum Follow-Up Care: High-Risk Patients Will Typically Receive Extended Postnatal Care to Address Any Ongoing Concerns for the Mother's Health, as Well as Monitor Baby'hemodynamics and Overall Development After Birth.</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/ram-diagnostics-explained-identifying-faulty-memory-with-help-from-yl-software-techniques/"><u>RAM Diagnostics Explained: Identifying Faulty Memory with Help From YL Software Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-0xc1900101-error-code-update-failure/"><u>Resolving 0xC1900101 Error Code Update Failure</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-overcoming-audio-playback-glitches-in-youtube-on-windows-10-computers/"><u>Step-by-Step Solution: Overcoming Audio Playback Glitches in YouTube on Windows 10 Computers</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/ultimate-guide-to-masterful-font-handling-on-your-windows-machine-by-yl-software-experts/"><u>Ultimate Guide to Masterful Font Handling on Your Windows Machine by YL Software Experts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-photo-frame-excellence-and-eccentricities-in-w15a/"><u>Unveiling Photo Frame Excellence and Eccentricities in W15A</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-edge-techniques-for-channel-management-on-yt-hub-for-2024/"><u>[New] Cutting-Edge Techniques for Channel Management on YT Hub for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-integrating-multimedia-for-iphone-users/"><u>[New] In 2024, Integrating Multimedia for iPhone Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-todays-misinformation-landscape/"><u>AI's Role in Today's Misinformation Landscape</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comprehensive-guide-to-the-best-apple-tv-vpn-providers-of-2024-featuring-expert-ratings-and-analysis-zdnet/"><u>Comprehensive Guide to the Best Apple TV VPN Providers of 2024, Featuring Expert Ratings and Analysis | ZDNet</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-to-fix-blurry-or-bad-image-output-with-your-scanner-expert-advice-by-yl-software/"><u>How to Fix Blurry or Bad Image Output with Your Scanner - Expert Advice by YL Software</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/identifying-key-factors-in-gpu-breakdowns-expert-analysis-by-yl-software/"><u>Identifying Key Factors in GPU Breakdowns - Expert Analysis by YL Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/instantaneous-remedies-for-malfunctioning-iphoneipad-widgets-a-step-by-step-guide/"><u>Instantaneous Remedies for Malfunctioning iPhone/iPad Widgets - A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/partytymes-2018-premier-karaoke-selection-elevate-your-events-with-fresh-releases-and-a-tailored-pcdj-monthly-service/"><u>Partytyme's 2018 Premier Karaoke Selection - Elevate Your Events with Fresh Releases and a Tailored PCDJ Monthly Service!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/reach-new-heights-boosting-youtube-viewership/"><u>Reach New Heights Boosting YouTube Viewership</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-overwatch-voice-chat-not-working-a-step-by-step-guide/"><u>Solving 'Overwatch Voice Chat Not Working': A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/updating-your-computers-device-drivers-a-simple-guide-expert-advice-from-yl-computing/"><u>Updating Your Computer's Device Drivers: A Simple Guide - Expert Advice From YL Computing</u></a></li>
 </ul></div>
 

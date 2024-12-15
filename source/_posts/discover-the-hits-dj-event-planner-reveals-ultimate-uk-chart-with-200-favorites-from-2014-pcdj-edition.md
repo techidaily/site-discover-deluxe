@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hits: DJ Event Planner Reveals Ultimate UK Chart with 200 Favorites From 2014 - PCDJ Edition"
-date: 2024-12-02T23:18:33.062Z
-updated: 2024-12-09T01:48:56.272Z
+date: 2024-12-09T06:41:39.290Z
+updated: 2024-12-14T20:08:16.534Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ DJ Event Planner compiled this list based on over 2 million song requests made u
 For the entire list of 200 most requested songs in the UK in 2014 click [HERE](http://djeventplanner.com/mostrequesteduk.htm)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,21 +59,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/toprequestedsongs-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-weaving-digital-tapestries-with-loom/"><u>[New] In 2024, Weaving Digital Tapestries with Loom</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-leading-speech-gatherers-in-educational-environments-for-2024/"><u>[Updated] Leading Speech Gatherers in Educational Environments for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/9-great-places-to-play-free-preschool-games/"><u>9 Great Places to Play Free Preschool Games</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/exploring-the-start-date-of-ancient-chinas-three-kingdoms-era-a-comprehensive-guide/"><u>Exploring the Start Date of Ancient China's Three Kingdoms Era: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-lenovo-bluetooth-hitches-in-win11/"><u>Fixing Lenovo Bluetooth Hitches in Win11</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-to-fix-blurry-or-bad-image-output-with-your-scanner-expert-advice-by-yl-software/"><u>How to Fix Blurry or Bad Image Output with Your Scanner - Expert Advice by YL Software</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/identifying-key-factors-in-gpu-breakdowns-expert-analysis-by-yl-software/"><u>Identifying Key Factors in GPU Breakdowns - Expert Analysis by YL Software</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Poco F5 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/integrating-zoom-and-skype-the-ultimate-guide-to-efficient-video-calls-for-2024/"><u>Integrating Zoom and Skype The Ultimate Guide to Efficient Video Calls for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/partytymes-2018-premier-karaoke-selection-elevate-your-events-with-fresh-releases-and-a-tailored-pcdj-monthly-service/"><u>Partytyme's 2018 Premier Karaoke Selection - Elevate Your Events with Fresh Releases and a Tailored PCDJ Monthly Service!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Huawei Nova Y71? | Dr.fone</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-defective-memory-units-expert-advice-from-yl-software/"><u>Troubleshooting Defective Memory Units: Expert Advice From YL Software</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-frequent-laptop-freezes-with-yl-computing-solutions/"><u>Troubleshooting Frequent Laptop Freezes with YL Computing Solutions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unveiling-the-top-8-accelerating-youtube-communities-for-2024/"><u>Unveiling the Top 8 Accelerating YouTube Communities for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/updating-your-computers-device-drivers-a-simple-guide-expert-advice-from-yl-computing/"><u>Updating Your Computer's Device Drivers: A Simple Guide - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-beginners-blueprint-for-youtube-trailers-via-filmora/"><u>[New] In 2024, The Beginner's Blueprint for YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-breaking-down-the-fastest-green-screen-methods/"><u>2024 Approved Breaking Down the Fastest Green Screen Methods</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-enhancing-outreach-with-strategic-partner-selection-on-youtube/"><u>2024 Approved Enhancing Outreach with Strategic Partner Selection on YouTube</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/effective-techniques-to-eliminate-dust-and-streak-marks-from-your-digital-prints-expert-tips-by-yl-software/"><u>Effective Techniques to Eliminate Dust & Streak Marks From Your Digital Prints - Expert Tips by YL Software</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-did-the-treaty-of-versailles-impact-chinas-position-insights-from-yl-computing-and-yl-software-experts/"><u>How Did the Treaty of Versailles Impact China's Position - Insights From YL Computing & YL Software Experts</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-to-batch-remove-several-documents-simultaneously-on-your-pc-tips-from-yl-tech-solutions/"><u>How to Batch Remove Several Documents Simultaneously on Your PC - Tips From YL Tech Solutions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-in-depth-assessment-photo-editing-tool-for-creatives/"><u>In 2024, In-Depth Assessment Photo Editing Tool for Creatives</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-youtube-ad-removal-chrome-firefox-android-iphone-methods-for-2024/"><u>Mastering YouTube Ad Removal Chrome, Firefox, Android, iPhone Methods for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/reshape-your-videos-a-step-by-step-guide/"><u>Reshape Your Videos A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-techniques-for-malfunctioning-displays-insights-from-yl-computing/"><u>Troubleshooting Techniques for Malfunctioning Displays: Insights From YL Computing</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-your-hard-disk-errors-made-easy-with-yl-softwares-expert-advice/"><u>Troubleshooting Your Hard Disk Errors Made Easy with YL Software's Expert Advice</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-from-a-dead-iphone-heres-how-no-physical-buttons-needed/"><u>Unstuck From a Dead iPhone? Here's How - No Physical Buttons Needed!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/be-storytelling-made-simple-with-premiere-pro-tips/"><u>YouTube Storytelling Made Simple - With Premiere Pro Tips</u></a></li>
 </ul></div>
 
