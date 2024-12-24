@@ -1,7 +1,7 @@
 ---
 title: The Ultimate '70S Groove Compilation for Spinners - DJ Mixes Featured by PCDJ Videos
-date: 2024-12-14T02:35:01.159Z
-updated: 2024-12-14T23:41:22.631Z
+date: 2024-12-16T16:27:22.379Z
+updated: 2024-12-24T08:06:56.524Z
 tags:
   - product
 categories:
@@ -152,7 +152,7 @@ Here’s last nights video chat. John’s list of must play 70s songs for DJs is
 [CONTINUE READING AT DISCJOCKEYNEWS.COM](http://discjockeynews.com/the-must-play-songs-from-the-70s-with-brian-redd-and-john-young/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -174,24 +174,14 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/02/musthave70smusicfordjs-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-digital-memory-keeping-for-your-ps3-experiences-for-2024/"><u>[Updated] Digital Memory Keeping for Your PS3 Experiences for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-play-40c-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor Play 40C</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-detailed-guidance-how-to-change-or-customize-your-ringtone-on-an-iphone-for-2024/"><u>A Detailed Guidance How To Change Or Customize Your Ringtone On An iPhone for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/budget-friendly-skydrive-solution-for-bulk-files-for-2024/"><u>Budget-Friendly SkyDrive Solution for Bulk Files for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-troubleshooting-tips-for-overcoming-livekernelevent-error-1-4/"><u>Comprehensive Troubleshooting Tips for Overcoming LiveKernelEvent Error 1# #4</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/essential-guide-what-you-need-to-know-before-purchasing-an-older-generation-ipad/"><u>Essential Guide: What You Need to Know Before Purchasing an Older Generation iPad</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-did-emperor-qin-shi-huang-influence-ancient-chinas-cultural-landscape-insights-by-yl-computing/"><u>How Did Emperor Qin Shi Huang Influence Ancient China's Cultural Landscape? - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-to-deactivate-or-uninstall-windows-defender-on-your-pc-expert-tips-from-yl-software/"><u>How To Deactivate or Uninstall Windows Defender on Your PC - Expert Tips From YL Software</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-to-enhance-your-pcs-ram-performance-tips-and-tricks-by-yl-computing/"><u>How to Enhance Your PC's RAM Performance: Tips and Tricks by YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-150-2023-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia 150 (2023) to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/identifying-signs-of-a-malfunctioning-graphics-card-on-your-pc-insights-by-yl-computing/"><u>Identifying Signs of a Malfunctioning Graphics Card on Your PC - Insights by YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Infinix Note 30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-xipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone X/iPad Without Computer</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/master-your-localization-tailoring-regional-and-linguistic-settings-in-windows-11-with-yl-computing-expertise/"><u>Master Your Localization: Tailoring Regional and Linguistic Settings in Windows 11 with YL Computing Expertise</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/maximizing-revenue-35-strategies-for-boosting-earnings-at-your-bar-during-karaoke-nights/"><u>Maximizing Revenue: 3.5 Strategies for Boosting Earnings at Your Bar During Karaoke Nights</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-in-2024-how-to-record-your-memorable-honeymoon-video/"><u>New In 2024, How to Record Your Memorable Honeymoon Video</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/resolving-device-connection-issues-on-your-pc-understanding-why-windows-may-fail-to-detect-newly-plugged-in-devices/"><u>Resolving Device Connection Issues on Your PC: Understanding Why Windows May Fail to Detect Newly Plugged-In Devices</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-adjusting-your-screen-display-settings-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Screen Display Settings - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/yl-software-tutorial-detecting-and-diagnosing-your-hard-drives-health-issues/"><u>YL Software Tutorial: Detecting and Diagnosing Your Hard Drive's Health Issues</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/ensuring-safe-crypto-transactions-expert-tips-from-yl-computings-leading-developers/"><u>Ensuring Safe Crypto Transactions: Expert Tips From YL Computing's Leading Developers</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/evaluating-the-risks-of-initial-coin-offerings-icos-a-guide-by-yl-computings-expertise-in-blockchain-technology/"><u>Evaluating the Risks of Initial Coin Offerings (ICOs): A Guide by YL Computing's Expertise in Blockchain Technology</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/get-familiar-with-the-ultimate-arlo-defense-for-homes/"><u>Get Familiar With the Ultimate Arlo Defense for Homes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-entrepreneur-writes-top-youtube-sites-for-business-success/"><u>In 2024, Entrepreneur' Writes Top YouTube Sites for Business Success</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/master-the-replacement-of-broken-motherboards-with-expert-advice-from-yl-softwares-engineers/"><u>Master the Replacement of Broken Motherboards with Expert Advice From YL Software's Engineers</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-goal-setting-with-microsoft-word-a-unique-twist-on-digital-bullet-journaling/"><u>Mastering the Art of Goal-Setting with Microsoft Word: A Unique Twist on Digital Bullet Journaling</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unleashing-the-power-of-subtitles-discover-the-top-8-efficient-convertors-to-srt-on-windowsmacosx/"><u>Unleashing the Power of Subtitles - Discover The Top 8 Efficient Convertors to SRT on Windows/MacOSX</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/webm-to-mp3-made-easy-10-reliable-converter-options-for-2024/"><u>WebM to MP3 Made Easy 10 Reliable Converter Options for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/yl-softwares-xdinary-heroes-inspiring-graphics-images-and-backgrounds-for-tech-enthusiasts/"><u>YL Software's Xdinary Heroes: Inspiring Graphics, Images & Backgrounds for Tech Enthusiasts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Customizing Your Sound with Editable Waveforms on DEX 3 (v3.9+) - Tips for PCDJ Enthusiasts
-date: 2024-12-12T16:09:02.266Z
-updated: 2024-12-15T00:46:01.212Z
+date: 2024-12-18T22:15:03.542Z
+updated: 2024-12-23T19:42:59.033Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ DEX 3 is our **top DJ mixing software** solution for today’s versatile DJ that
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How-To Edit DEX 3 Waveform Colors
@@ -46,7 +46,7 @@ If you’re on a MAC the skin files are located inside the application itself. Y
 [VIEW LARGER IMAGE ![DEX 3 Skins Folder Location](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/01/dex2skinfolder.jpg?fit=300%2C195&ssl=1 "DEX 3 Skins Folder Location")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/01/dex2skinfolder.jpg?fit=1030%2C669&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Inside of the DEX 3 Skins folder you will find XML files for each DEX 3 skin variation. The 4-deck default skin will be labeled “dex38\_4” and the default (main) 2-deck default skin is labeled “dex38\_2”. You will need to right-click (Ctrl + Click on MAC) and open the XML file with a standard text editor such as Notepad on Windows or TextWrangler, Atom, Xcode, etc on MAC.
@@ -54,16 +54,12 @@ If you’re on a MAC the skin files are located inside the application itself. Y
 [VIEW LARGER IMAGE ![Open DEX 3 XML skin files in notepad or text editor](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/open-skin-file-notepad.jpg?fit=300%2C195&ssl=1 "Open DEX 3 XML skin files in notepad or text editor")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/open-skin-file-notepad.jpg?fit=1030%2C671&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Once you’ve opened up the Skin XML file in a text editor, locate the text section (near the bottom) titled “Sound Display”. It’s in this section where you can edit the color codes for each DEX 3 deck. It’s shown highlighted in the image to the right. 
 
 [VIEW LARGER IMAGE ![DEX 3 sound display section](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/sound-display-skin-section.jpg?fit=300%2C169&ssl=1 "DEX 3 sound display section")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/sound-display-skin-section.jpg?fit=1030%2C579&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** The color codes (HEX) you can edit for each deck (Note: we are demonstrating with the 4-deck XML file) are outlined in the image to the right.
 
@@ -80,10 +76,14 @@ You can simply type in or copy and paste in the color code you wish to use, repl
 
 [VIEW LARGER IMAGE ![DEX 3 with colored waveforms](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/dex3-colored-waveforms.jpg?fit=1030%2C579&ssl=1 "DEX 3 with colored waveforms")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/dex3-colored-waveforms.jpg?fit=1030%2C579&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _Have questions about **editing the waveform colors** in DEX 3 **DJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -105,19 +105,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/editingwaveformcolors.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-5-smart-ways-to-save-your-roblox-gaming-on-apple-computers/"><u>[New] 2024 Approved 5 Smart Ways to Save Your Roblox Gaming on Apple Computers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-quiet-filming-techniques-to-consider-first/"><u>2024 Approved Quiet Filming Techniques to Consider First</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/acquiring-digital-assets-made-easy-with-yl-software-insights-on-buying-cryptocurrency/"><u>Acquiring Digital Assets Made Easy with YL Software Insights on Buying Cryptocurrency</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-in-class-steadicam-equipment-for-drone-cinematography-for-2024/"><u>Best-in-Class Steadicam Equipment for Drone Cinematography for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-iphone-se-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On iPhone SE - 4 Easy Ways</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/identifying-signs-of-a-malfunctioning-graphics-card-on-your-pc-insights-by-yl-computing/"><u>Identifying Signs of a Malfunctioning Graphics Card on Your PC - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-crafting-content-with-custom-fonts-in-adobe-ae/"><u>In 2024, Crafting Content with Custom Fonts in Adobe AE</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/july-2014s-updated-karaoke-cloud-pro-pack-pop-rock-and-rap-tracks-for-dj-playlists/"><u>July 2014'S Updated Karaoke Cloud Pro Pack: POP, ROCK & RAP Tracks for DJ Playlists</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/maximizing-revenue-35-strategies-for-boosting-earnings-at-your-bar-during-karaoke-nights/"><u>Maximizing Revenue: 3.5 Strategies for Boosting Earnings at Your Bar During Karaoke Nights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionary-chatbot-therapists-5-innovative-ai-solutions-to-overcome-psychological-struggles/"><u>Revolutionary Chatbot Therapists: 5 Innovative AI Solutions to Overcome Psychological Struggles</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/scopri-il-solutore-ideale-per-la-transferibilita-unidirezionale-dei-file-la-guida-completa-alla-scelta-del-software-giusto/"><u>Scopri Il Solutore Ideale per La Transferibilità Unidirezionale Dei File - La Guida Completa Alla Scelta Del Software Giusto</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-adjusting-your-screen-display-settings-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Screen Display Settings - Tips From YL Computing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/sh-creativity-with-customizable-animated-subscribers-on-youtube-filmora-for-2024/"><u>Unleash Creativity with Customizable Animated Subscribers on YouTube (Filmora) for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/yl-software-tutorial-detecting-and-diagnosing-your-hard-drives-health-issues/"><u>YL Software Tutorial: Detecting and Diagnosing Your Hard Drive's Health Issues</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-efficiently-expanding-on-stardews-ginger-isle/"><u>[Updated] 2024 Approved Efficiently Expanding on Stardew's Ginger Isle</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-convert-your-fb-video-into-singable-songs-mp3-for-2024/"><u>[Updated] Convert Your FB Video Into Singable Songs (MP3) for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-guide-to-launching-an-inclusive-and-engaging-fb-donation-drive/"><u>[Updated] Guide to Launching an Inclusive and Engaging FB Donation Drive</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-editor-secrets-unlocked-in-canva-photo-editing/"><u>[Updated] In 2024, Top Editor Secrets Unlocked in Canva Photo Editing</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/concrete-densifiers-increase-the-density-of-the-surface-layer-enhancing-durability-and-reducing-dusting/"><u>Concrete Densifiers Increase the Density of the Surface Layer, Enhancing Durability and Reducing Dusting.</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/exploring-the-legacy-of-the-ming-dynasty-in-shaping-chinas-past-an-in-depth-analysis/"><u>Exploring the Legacy of the Ming Dynasty in Shaping China's Past: An In-Depth Analysis</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-to-resolve-unrecognized-scanner-issues-with-your-pc-insights-from-yl-computing/"><u>How to Resolve Unrecognized Scanner Issues with Your PC - Insights From YL Computing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-online-income-from-youtubes-adsense-to-direct-payments/"><u>Mastering Online Income From YouTube's AdSense to Direct Payments</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/maximize-your-pcs-storage-proven-methods-for-clearing-up-disk-space-tips-from-yl-computing/"><u>Maximize Your PC's Storage: Proven Methods for Clearing Up Disk Space - Tips From YL Computing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/navigating-legalities-in-sharing-musical-works/"><u>Navigating Legalities in Sharing Musical Works</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/reviving-silent-sound-systems-yl-softwares-guide-to-repairing-non-functional-audio-output-devices/"><u>Reviving Silent Sound Systems: YL Software's Guide to Repairing Non-Functional Audio Output Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-no-sound-issue-with-easy-tips-for-the-astro-a50-audio-system/"><u>Solve No-Sound Issue with Easy Tips for the Astro A50 Audio System</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/top-strategies-for-resolving-hardware-problems-on-your-windows-pc-expert-advice-from-yl-computing/"><u>Top Strategies for Resolving Hardware Problems on Your Windows PC - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-instagrams-gold-standard-your-guide-to-official-account-recognition/"><u>Unlocking Instagram's Gold Standard: Your Guide to Official Account Recognition</u></a></li>
 </ul></div>
 

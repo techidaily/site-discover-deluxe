@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hits: DJ Event Planner Reveals Ultimate UK Chart with 200 Favorites From 2014 - PCDJ Edition"
-date: 2024-12-09T06:41:39.290Z
-updated: 2024-12-14T20:08:16.534Z
+date: 2024-12-17T06:53:37.737Z
+updated: 2024-12-23T20:17:39.735Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ DJ Event Planner compiled this list based on over 2 million song requests made u
 For the entire list of 200 most requested songs in the UK in 2014 click [HERE](http://djeventplanner.com/mostrequesteduk.htm)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,19 +59,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/toprequestedsongs-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-beginners-blueprint-for-youtube-trailers-via-filmora/"><u>[New] In 2024, The Beginner's Blueprint for YouTube Trailers via Filmora</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-breaking-down-the-fastest-green-screen-methods/"><u>2024 Approved Breaking Down the Fastest Green Screen Methods</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-enhancing-outreach-with-strategic-partner-selection-on-youtube/"><u>2024 Approved Enhancing Outreach with Strategic Partner Selection on YouTube</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/effective-techniques-to-eliminate-dust-and-streak-marks-from-your-digital-prints-expert-tips-by-yl-software/"><u>Effective Techniques to Eliminate Dust & Streak Marks From Your Digital Prints - Expert Tips by YL Software</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-did-the-treaty-of-versailles-impact-chinas-position-insights-from-yl-computing-and-yl-software-experts/"><u>How Did the Treaty of Versailles Impact China's Position - Insights From YL Computing & YL Software Experts</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-to-batch-remove-several-documents-simultaneously-on-your-pc-tips-from-yl-tech-solutions/"><u>How to Batch Remove Several Documents Simultaneously on Your PC - Tips From YL Tech Solutions</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-in-depth-assessment-photo-editing-tool-for-creatives/"><u>In 2024, In-Depth Assessment Photo Editing Tool for Creatives</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ring-youtube-ad-removal-chrome-firefox-android-iphone-methods-for-2024/"><u>Mastering YouTube Ad Removal Chrome, Firefox, Android, iPhone Methods for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/reshape-your-videos-a-step-by-step-guide/"><u>Reshape Your Videos A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-techniques-for-malfunctioning-displays-insights-from-yl-computing/"><u>Troubleshooting Techniques for Malfunctioning Displays: Insights From YL Computing</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-your-hard-disk-errors-made-easy-with-yl-softwares-expert-advice/"><u>Troubleshooting Your Hard Disk Errors Made Easy with YL Software's Expert Advice</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unstuck-from-a-dead-iphone-heres-how-no-physical-buttons-needed/"><u>Unstuck From a Dead iPhone? Here's How - No Physical Buttons Needed!</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/be-storytelling-made-simple-with-premiere-pro-tips/"><u>YouTube Storytelling Made Simple - With Premiere Pro Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-stay-on-top-the-essential-guide-to-fbs-latest-video-tracks/"><u>[New] 2024 Approved Stay on Top The Essential Guide to FB's Latest Video Tracks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-screenflow-mastery-for-mac-users-a-critical-look/"><u>[Updated] 2024 Approved ScreenFlow Mastery for Mac Users – A Critical Look</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-secrets-to-successful-twitpicingvideo-edition/"><u>[Updated] In 2024, Secrets to Successful Twitpicing—Video Edition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-xbox-one-shutterbug-techniques/"><u>[Updated] The Ultimate Xbox One Shutterbug Techniques</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1-unveiling-key-distinctions-windows-defender-vs-windows-security-explained-by-yl-computing/"><u>1. Unveiling Key Distinctions: Windows Defender Vs. Windows Security Explained by YL Computing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-premium-audio-narrative-compositions/"><u>2024 Approved Premium Audio Narrative Compositions</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/australian-partners-and-suppliers-of-pcdj-and-karaoke-software-discover-khe-direct/"><u>Australian Partners & Suppliers of PCDJ & Karaoke Software: Discover KHE Direct</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/captivating-icy-visuals-for-your-space-premium-frozen-landscapes-by-yl-software/"><u>Captivating Icy Visuals for Your Space: Premium Frozen Landscapes by YL Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/comprehensive-list-of-top-9-video-meeting-software-on-devices-for-2024/"><u>Comprehensive List of Top 9 Video Meeting Software on Devices for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deactivating-sleep-on-new-windows-keys-and-mice/"><u>Deactivating Sleep on New Windows: Keys & Mice</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/essential-strategies-for-safeguarding-your-digital-wealth-with-crypto-insights-from-yl-computing-and-yl-software-expertise/"><u>Essential Strategies for Safeguarding Your Digital Wealth with Crypto - Insights From YL Computing & YL Software Expertise</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-nokia-xr21-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nokia XR21? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-tecno-pop-7-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Tecno Pop 7 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/step-by-step-solution-to-dealing-with-printer-and-scanner-paper-jam-issues-by-yl-software-experts/"><u>Step-by-Step Solution to Dealing with Printer and Scanner Paper Jam Issues by YL Software Experts</u></a></li>
 </ul></div>
 
