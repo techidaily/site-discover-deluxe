@@ -1,7 +1,7 @@
 ---
 title: 评量宋代文景之治对中国古代政治发展影响
-date: 2024-12-19T07:07:53.018Z
-updated: 2024-12-24T08:19:28.449Z
+date: 2024-12-23T20:24:25.692Z
+updated: 2024-12-29T17:12:32.272Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,24 +56,24 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-creating-stunning-youtube-openings-best-tools-list/"><u>[New] Creating Stunning YouTube Openings - Best Tools List</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-violation-woes-abrupt-creative-cut-off/"><u>[Updated] In 2024, Violation Woes Abrupt Creative Cut-Off</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-blitz-photograph-examiner-windows-edition/"><u>2024 Approved Blitz Photograph Examiner - Windows Edition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-ultimate-list-of-budget-friendly-editor-apps/"><u>2024 Approved The Ultimate List of Budget-Friendly Editor Apps</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/boost-your-pc-speed-in-minutes-with-essential-tweaks-and-tricks-by-yl-software-experts/"><u>Boost Your PC Speed in Minutes with Essential Tweaks and Tricks by YL Software Experts</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/boosting-your-dj-career-key-strategies-for-thriving-in-the-music-industry/"><u>Boosting Your DJ Career: Key Strategies For Thriving In The Music Industry</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/complete-guide-to-pcdj-dex-3-uniting-djing-videography-and-karaoke-in-one-platform/"><u>Complete Guide to PCDJ Dex 3: Uniting DJing, Videography, and Karaoke in One Platform</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/desktop-capture-showdown-select-between-obs-and-shadowplay/"><u>Desktop Capture Showdown Select Between OBS and ShadowPlay</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-resolve-discolored-and-distorted-output-on-pc-screens/"><u>Effective Strategies to Resolve Discolored & Distorted Output on PC Screens</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-to-accelerate-your-printing-process-expert-tips-from-yl-computings-latest-guide/"><u>How to Accelerate Your Printing Process: Expert Tips From YL Computing's Latest Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-v27e-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo V27e Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-edge-wireless-cameras-the-hottest-18-on-the-market-for-2024/"><u>Leading-Edge Wireless Cameras The Hottest 18 On The Market for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/mastering-hardware-fixes-expert-advice-for-troubleshooting-failures-by-yl-technology-experts/"><u>Mastering Hardware Fixes: Expert Advice for Troubleshooting Failures by YL Technology Experts</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/premium-4k-resolution-visual-themes-and-design-backgrounds-yl-computing-collection/"><u>Premium 4K Resolution Visual Themes & Design Backgrounds - YL Computing Collection</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/step-by-step-strategies-for-removing-computer-viruses-effectively-expert-advice-by-yl-computing-solutions/"><u>Step-by-Step Strategies for Removing Computer Viruses Effectively - Expert Advice by YL Computing Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-successfully-connect-airpods-to-your-windows-11-pc-expert-tips/"><u>Step-by-Step: Successfully Connect AirPods to Your Windows 11 PC - Expert Tips</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/stunning-photographic-showcase-santa-monica-pier-hd-walls-and-desktops-premium-visual-content-from-yl-software/"><u>Stunning Photographic Showcase: Santa Monica Pier HD Walls and Desktops – Premium Visual Content From YL Software</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-concealed-system-documents-a-step-by-step-guide-for-macos-users-via-terminal/"><u>Unveiling Concealed System Documents: A Step-by-Step Guide for macOS Users via Terminal</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/yl-software-essentials-how-to-effortlessly-update-scanner-drivers/"><u>YL Software Essentials: How to Effortlessly Update Scanner Drivers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-starting-with-av1-an-essential-overview/"><u>[New] In 2024, Starting with AV1 An Essential Overview</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unmatched-performance-1-4k-gaming-laptops-for-2024/"><u>[New] Unmatched Performance #1 4K Gaming Laptops for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-facetime-call-screen-recording-the-beginners-guide-for-2024/"><u>[Updated] FaceTime Call Screen Recording The Beginner's Guide for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-comparing-m1-laptop-performance-in-air-vs-pro/"><u>2024 Approved Comparing M1 Laptop Performance in Air Vs. Pro</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/a-comparative-analysis-of-bitcoin-against-alternate-crypto-assets-guided-by-yl-software-expertise/"><u>A Comparative Analysis of Bitcoin Against Alternate Crypto Assets - Guided by YL Software Expertise</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/expert-guide-to-boosting-pc-performance-by-yl-software/"><u>Expert Guide to Boosting PC Performance by YL Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-toms-tech-reviews-and-gadget-guides/"><u>Explore Tom's Tech Reviews & Gadget Guides</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/exploring-superior-security-systems-with-yl-softwares-reviews-and-comparisons/"><u>Exploring Superior Security Systems with YL Software's Reviews & Comparisons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-5-unveiled-essential-advances-to-keep-an-eye-on/"><u>GPT-5 Unveiled: Essential Advances to Keep an Eye On</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-effective-is-windows-defender-against-various-malware-types-expert-analysis-by-yl-software/"><u>How Effective Is Windows Defender Against Various Malware Types? Expert Analysis by YL Software</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-to-fix-a-non-booting-hard-drive-expert-advice-from-yl-computing-and-yl-software/"><u>How to Fix a Non-Booting Hard Drive: Expert Advice From YL Computing & YL Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-escalating-image-size-ensuring-unimpaired-detail/"><u>In 2024, Escalating Image Size Ensuring Unimpaired Detail</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-12-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 12 Pro iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-infinix-hot-40i-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Infinix Hot 40i</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/mastering-crypto-investments-a-beginners-guide-by-yl-computing/"><u>Mastering Crypto Investments: A Beginner's Guide by YL Computing</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/navigating-through-tech-roadblocks-proven-slowdown-troubleshooting-tips-by-yl-computing-and-yl-software/"><u>Navigating Through Tech Roadblocks: Proven Slowdown Troubleshooting Tips by YL Computing & YL Software</u></a></li>
+<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-13-pro-max-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 13 Pro Max Suddenly | Stellar</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-and-replacing-damaged-motherboards-with-yls-guide/"><u>Troubleshooting and Replacing Damaged Motherboards with YL's Guide</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-your-wireless-printers-connection-issues-with-yl-tech-support/"><u>Troubleshooting Your Wireless Printer's Connection Issues with YL Tech Support</u></a></li>
 </ul></div>
 

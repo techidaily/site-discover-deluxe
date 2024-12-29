@@ -1,7 +1,7 @@
 ---
 title: "Year in Focus: Unveiling the Highlights and Milestones of PCDJ's Remarkable 201 6 Adventure"
-date: 2024-12-20T00:33:15.640Z
-updated: 2024-12-24T00:07:25.197Z
+date: 2024-12-27T17:39:07.256Z
+updated: 2024-12-29T23:20:26.356Z
 tags:
   - product
 categories:
@@ -26,6 +26,10 @@ When you’re surrounded by a great group of teammates with the same vision and 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### PCDJ Highlights From 2016
 
 **DJ Software and Video Mixing Software Improvements**
@@ -37,7 +41,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * Released a revamped DJ controller detection protocol that allows for real-time detection of DJ controllers, even while mixing. DJs can also use up to 8 DJ controller simultaneously, with zero-configure support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Added support for 10 [DJ controllers](https://tools.techidaily.com/pcdj/products/) from some of the biggest DJ equipment providers in the business, including support for the [Pioneer DDJ-SB2](https://tools.techidaily.com/pcdj/products/), [DDJ-RR and DDJ-RB](https://tools.techidaily.com/pcdj/products/). The [Hercules DJControl JogVision](https://tools.techidaily.com/pcdj/products/) and [Hercules P32](https://tools.techidaily.com/pcdj/products/) controllers. [Reloop RMP-4](https://tools.techidaily.com/pcdj/products/) and [Mixon 4](https://tools.techidaily.com/pcdj/products/) are also now plug-and-play with both [DEX 3](https://tools.techidaily.com/pcdj/products/) and [DEX 3 RE](https://tools.techidaily.com/pcdj/products/) DJ programs.
@@ -53,7 +57,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * New [“Search Results” view](https://tools.techidaily.com/pcdj/products/) that expands the rotation list the entire right-hand side of the Karaoki browser with search results displaying in the large middle library pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Added [‘Search History’ and large search pop-up](https://tools.techidaily.com/pcdj/products/) – KJs can view all their past song searches and double-click in the smaller search box to display a much larger version.
@@ -72,7 +76,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 [MORE ABOUT JAMMTEXT ![jammtext logo](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/09/jammtext-logo-black.png?fit=300%2C61&ssl=1 "jammtext logo")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As always, we strive to be accessible to our DJ and karaoke software users. We want to ensure that when you have a question it’s answered thoroughly and professionally in a very timely fashion. We updated the PCDJ website to include a new web chat, robust support ticketing tracking system and created new [PCDJ user forums](https://tools.techidaily.com/pcdj/products/).
@@ -81,14 +85,10 @@ We found new partners at MixCity Inc, the creators of [JammText](https://tools.t
 
 _**That’s a good look at 2016’s highlights for PCDJ. Please check back next week for a look ahead at what our goals are for 2017!**_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Happy New Year, Friends!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,18 +110,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/pcdj2016yearinreview-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-iconic-imagery-stories-a-deep-dive-for-2024/"><u>[New] Iconic Imagery Stories A Deep Dive for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-seamless-file-access-top-windows-and-mac-strategies-for-downloading-igtv/"><u>[New] Seamless File Access Top Windows & Mac Strategies for Downloading IGTV</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/common-factors-leading-to-a-slower-pc-expert-analysis-by-yl-software/"><u>Common Factors Leading to a Slower PC - Expert Analysis by YL Software</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-can-you-boost-your-pcs-performance-without-upgrading-hardware-tips-and-tricks-from-yl-software/"><u>How Can You Boost Your PC's Performance Without Upgrading Hardware? - Tips & Tricks From YL Software</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-to-prevent-your-pc-from-continuously-crashing-expert-advice-by-yl-computing/"><u>How to Prevent Your PC From Continuously Crashing: Expert Advice by YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-f5-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco F5 Pro 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/locating-the-core-controls-how-and-where-is-the-windows-registry-typically-stored/"><u>Locating the Core Controls: How and Where Is the Windows Registry Typically Stored?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/master-image-tweaks-with-snapseed-for-newbies-for-2024/"><u>Master Image Tweaks with Snapseed for Newbies for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-how-to-resolve-errnamenotresolved-issue-on-chrome/"><u>Quick Solutions: How to Resolve ERR_NAME_NOT_RESOLVED Issue on Chrome</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/recognizing-hardware-issues-a-guide-by-yl-computing-and-yl-software/"><u>Recognizing Hardware Issues: A Guide by YL Computing and YL Software</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/solving-sound-playback-errors-on-your-pc-expert-advice-from-yl-software/"><u>Solving Sound Playback Errors on Your PC: Expert Advice From YL Software</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-installing-a-new-printer-using-windows-control-panel-expert-advice-from-yl-computing/"><u>Step-by-Step Guide: Installing a New Printer Using Windows Control Panel - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-next-generation-of-google-smartphones-pixel-eb-10-pricing-timing-and-tech-rumors-uncovered/"><u>The Next Generation of Google Smartphones: Pixel Eb 10 Pricing, Timing, and Tech Rumors Uncovered</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-digital-pixels-at-your-command-curve-artfully/"><u>[New] In 2024, Digital Pixels at Your Command Curve Artfully</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tier-tone-transmitter-for-voice-artists/"><u>[New] Top-Tier Tone Transmitter for Voice Artists</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-personal-snaps-into-motion-stories/"><u>[New] Transforming Personal Snaps Into Motion Stories</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/captivating-sleeping-beauty-visuals-for-background-imagery-and-digital-wallpapers-yl-software-solutions/"><u>Captivating Sleeping Beauty Visuals for Background Imagery and Digital Wallpapers – YL Software Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-the-rising-popularity-of-openstack-and-kata-containers-in-todays-tech-landscape/"><u>Exploring the Rising Popularity of OpenStack and Kata Containers in Today's Tech Landscape</u></a></li>
+<li><a href="https://win-blog.techidaily.com/freeze-no-more-expert-advice-to-overcome-cod-bocw-freezing-problems/"><u>Freeze No More! Expert Advice to Overcome COD: BOCW Freezing Problems</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/hottest-cloud-based-karaoke-tracks-for-this-week-rev-up-your-dance-floors-with-pro-mixes/"><u>Hottest Cloud-Based Karaoke Tracks for This Week - Rev Up Your Dance Floors with Pro Mixes!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-balancing-act-proper-techniques-for-stable-photos/"><u>In 2024, Balancing Act Proper Techniques for Stable Photos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-y200e-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo Y200e 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Plus?</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/overcoming-display-troubleshooting-challenges-expert-tips-from-yls-computing-experts-yl-software-solutions/"><u>Overcoming Display Troubleshooting Challenges: Expert Tips From YL's Computing Experts | YL Software Solutions</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/premium-audi-rs3-hd-wallpapers-and-images-for-pcs-and-laptops-curated-by-yl-software-experts/"><u>Premium Audi RS3 HD Wallpapers & Images for PCs and Laptops, Curated by YL Software Experts</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-unpacking-files-from-archives-on-windows-tips-by-yl-computing/"><u>Step-by-Step Guide: Unpacking Files From Archives on Windows - Tips by YL Computing</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/untangling-secure-files-on-your-pc-a-guide-to-efficiently-deleting-relocating-or-rename-locked-files-in-windows-by-professionals-at-yl-software/"><u>Untangling Secure Files on Your PC: A Guide to Efficiently Deleting, Relocating, or Rename Locked Files in Windows by Professionals at YL Software</u></a></li>
 </ul></div>
 

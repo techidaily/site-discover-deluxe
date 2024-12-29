@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hits: DJ Event Planner Reveals Ultimate UK Chart with 200 Favorites From 2014 - PCDJ Edition"
-date: 2024-12-17T06:53:37.737Z
-updated: 2024-12-23T20:17:39.735Z
+date: 2024-12-26T17:40:37.194Z
+updated: 2024-12-29T20:01:41.579Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ DJ Event Planner compiled this list based on over 2 million song requests made u
 For the entire list of 200 most requested songs in the UK in 2014 click [HERE](http://djeventplanner.com/mostrequesteduk.htm)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,19 +59,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/toprequestedsongs-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-stay-on-top-the-essential-guide-to-fbs-latest-video-tracks/"><u>[New] 2024 Approved Stay on Top The Essential Guide to FB's Latest Video Tracks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-screenflow-mastery-for-mac-users-a-critical-look/"><u>[Updated] 2024 Approved ScreenFlow Mastery for Mac Users – A Critical Look</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-secrets-to-successful-twitpicingvideo-edition/"><u>[Updated] In 2024, Secrets to Successful Twitpicing—Video Edition</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-xbox-one-shutterbug-techniques/"><u>[Updated] The Ultimate Xbox One Shutterbug Techniques</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1-unveiling-key-distinctions-windows-defender-vs-windows-security-explained-by-yl-computing/"><u>1. Unveiling Key Distinctions: Windows Defender Vs. Windows Security Explained by YL Computing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-premium-audio-narrative-compositions/"><u>2024 Approved Premium Audio Narrative Compositions</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/australian-partners-and-suppliers-of-pcdj-and-karaoke-software-discover-khe-direct/"><u>Australian Partners & Suppliers of PCDJ & Karaoke Software: Discover KHE Direct</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/captivating-icy-visuals-for-your-space-premium-frozen-landscapes-by-yl-software/"><u>Captivating Icy Visuals for Your Space: Premium Frozen Landscapes by YL Software</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/comprehensive-list-of-top-9-video-meeting-software-on-devices-for-2024/"><u>Comprehensive List of Top 9 Video Meeting Software on Devices for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deactivating-sleep-on-new-windows-keys-and-mice/"><u>Deactivating Sleep on New Windows: Keys & Mice</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/essential-strategies-for-safeguarding-your-digital-wealth-with-crypto-insights-from-yl-computing-and-yl-software-expertise/"><u>Essential Strategies for Safeguarding Your Digital Wealth with Crypto - Insights From YL Computing & YL Software Expertise</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-nokia-xr21-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nokia XR21? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-tecno-pop-7-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Tecno Pop 7 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/step-by-step-solution-to-dealing-with-printer-and-scanner-paper-jam-issues-by-yl-software-experts/"><u>Step-by-Step Solution to Dealing with Printer and Scanner Paper Jam Issues by YL Software Experts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-3-effective-methods-to-archive-itunes-videos-for-2024/"><u>[New] 3 Effective Methods to Archive iTunes Videos for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-investors-handbook-for-monetized-youtubers/"><u>[New] In 2024, The Investor's Handbook for Monetized Youtubers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-2023-dive-into-apeaksofts-video-capture-marvels/"><u>[Updated] 2024 Approved The 2023 Dive Into Apeaksoft’s Video Capture Marvels</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-xs-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone XS Max? | Stellar</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-to-retrieve-your-files-after-a-hard-drive-failure-a-guide-by-yl-computing/"><u>How to Retrieve Your Files After a Hard Drive Failure: A Guide by YL Computing</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-to-seamlessly-launch-and-view-pdfs-on-your-pc-with-yl-softwares-tips/"><u>How to Seamlessly Launch and View PDFs on Your PC with YL Software's Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-105-classic-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nokia 105 Classic PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-video-selfie-verfication-is-it-really-useful/"><u>In 2024, Instagram Video Selfie Verfication - Is It Really Useful?</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/mastering-motherboard-driver-updates-the-essential-steps-tips-from-yl-software/"><u>Mastering Motherboard Driver Updates: The Essential Steps - Tips From YL Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/peaceful-pixel-playgrounds-idle-worlds-await/"><u>Peaceful Pixel Playgrounds: Idle Worlds Await</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/quick-steps-for-igtv-on-instagram-stories-for-2024/"><u>Quick Steps for IGTV on Instagram Stories for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/resolving-problems-with-microsoft-office-on-windows-expert-tips-and-tricks-yl-computing/"><u>Resolving Problems with Microsoft Office on Windows: Expert Tips & Tricks - YL Computing</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/reviving-your-usb-port-a-step-by-step-guide-by-the-technical-experts-at-yl-computing/"><u>Reviving Your USB Port: A Step-by-Step Guide by the Technical Experts at YL Computing</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/solving-common-printer-problems-using-control-panel-expert-tips-from-yl-computing-and-software/"><u>Solving Common Printer Problems Using Control Panel - Expert Tips From YL Computing & Software</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-customizing-your-windows-11-background-with-ease-tips-from-yl-computing/"><u>Step-by-Step Guide: Customizing Your Windows 11 Background with Ease - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/the-pathway-to-dominance-understanding-the-chinese-communist-partys-ascension-with-yl-software-insights/"><u>The Pathway to Dominance: Understanding the Chinese Communist Party's Ascension with YL Software Insights</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-tier-eero-pro-performance-analysis-for-seamless-whole-home-wifi-connectivity/"><u>Top-Tier Eero Pro Performance Analysis for Seamless Whole Home WiFi Connectivity</u></a></li>
 </ul></div>
 
