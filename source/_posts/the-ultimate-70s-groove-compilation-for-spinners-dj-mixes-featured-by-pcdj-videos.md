@@ -1,7 +1,7 @@
 ---
 title: The Ultimate '70S Groove Compilation for Spinners - DJ Mixes Featured by PCDJ Videos
-date: 2024-12-23T19:11:52.357Z
-updated: 2024-12-29T20:59:56.586Z
+date: 2025-01-07T00:28:44.455Z
+updated: 2025-01-08T23:47:01.148Z
 tags:
   - product
 categories:
@@ -152,7 +152,7 @@ Here’s last nights video chat. John’s list of must play 70s songs for DJs is
 [CONTINUE READING AT DISCJOCKEYNEWS.COM](http://discjockeynews.com/the-must-play-songs-from-the-70s-with-brian-redd-and-john-young/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -174,22 +174,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/02/musthave70smusicfordjs-cov
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/he-ultimate-breakdown-of-12-youtubes-best-in-class-gaming-openings/"><u>[New] The Ultimate Breakdown of 12 YouTube's Best-in-Class Gaming Openings</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/animatedapp-full-guide-and-review-24-overview-for-2024/"><u>AnimatedApp Full Guide & Review '24 Overview for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-15-free-4k-resolution-changers-transform-your-videos-from-4k-and-1080p-seamlessly/"><u>Best 15 Free 4K Resolution Changers: Transform Your Videos From 4K & 1080P Seamlessly</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/boost-your-scanners-speed-with-driver-updates-expert-tips-from-yl-computings-team-yl-software-essentials/"><u>Boost Your Scanner's Speed with Driver Updates: Expert Tips From YL Computing’s Team | YL Software Essentials</u></a></li>
-<li><a href="https://extra-information.techidaily.com/curated-collection-saving-snapchat-ringtone-audio/"><u>Curated Collection Saving Snapchat Ringtone Audio</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/discover-the-hits-dj-event-planner-reveals-ultimate-uk-chart-with-200-favorites-from-2014-pcdj-edition/"><u>Discover the Hits: DJ Event Planner Reveals Ultimate UK Chart with 200 Favorites From 2014 - PCDJ Edition</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/easy-guide-accessing-and-viewing-gpx-files-on-your-windows-pc-tips-from-yl-software-experts/"><u>Easy Guide: Accessing and Viewing GPX Files on Your Windows PC - Tips From YL Software Experts</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/easy-instructions-for-scanner-software-reinstalls-and-updates-with-yl-solutions/"><u>Easy Instructions for Scanner Software Reinstalls & Updates with YL Solutions</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/get-inspired-with-high-quality-black-tesla-roadster-desktop-themes-exclusive-images-from-yl-computings-design-studio/"><u>Get Inspired with High-Quality Black Tesla Roadster Desktop Themes - Exclusive Images From YL Computing's Design Studio</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-huawei-p60-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Huawei P60 Activity | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-xr-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone XR to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/insight-into-the-past-understanding-the-crucial-role-of-the-great-wall-of-china-with-expertise-from-yl-computing-and-yl-software/"><u>Insight Into the Past: Understanding the Crucial Role of the Great Wall of China with Expertise From YL Computing & YL Software</u></a></li>
-<li><a href="https://win11.techidaily.com/masterclass-hiding-power-button-in-windows-11-settings/"><u>Masterclass: Hiding Power Button in Windows 11 Settings</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revitalize-your-icloud-top-4-solutions-for-ungraying-ios-device-settings/"><u>Revitalize Your iCloud: Top 4 Solutions for Ungraying iOS Device Settings</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-flushing-your-windows-10-pcs-memory/"><u>Step-by-Step Guide: Flushing Your Windows 10 PC's Memory</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/transforming-china-the-impact-of-the-chinese-civil-war-on-societal-structures-insights-by-yl-computing-and-yl-software/"><u>Transforming China: The Impact of the Chinese Civil War on Societal Structures - Insights by YL Computing & YL Software</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/yl-scraping-tool-version-160-innovative-data-extraction-by-yl-computing/"><u>YL Scraping Tool Version 1.6.0: Innovative Data Extraction by YL Computing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-quick-fixes-how-to-screen-record-your-google-chats-for-2024/"><u>[Updated] Quick Fixes How to Screen Record Your GooGle Chats for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-essential-guide-to-screen-capture-windows/"><u>2024 Approved Essential Guide to Screen Capture Windows</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/boost-your-pc-speed-in-minutes-with-essential-tweaks-and-tricks-by-yl-software-experts/"><u>Boost Your PC Speed in Minutes with Essential Tweaks and Tricks by YL Software Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breathe-new-life-into-your-typing-9-steps-for-fixing-faulty-keyboard-shortcut-combinations-on-windows/"><u>Breathe New Life Into Your Typing: 9 Steps for Fixing Faulty Keyboard Shortcut Combinations on Windows</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/captivating-aurora-visuals-for-desktop-enhancement-professional-hd-wallpaper-collection-from-yl-software/"><u>Captivating Aurora Visuals for Desktop Enhancement - Professional HD Wallpaper Collection From YL Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/core-definitions-of-cyber-storytelling-for-2024/"><u>Core Definitions of Cyber Storytelling for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/mastering-hardware-fixes-expert-advice-for-troubleshooting-failures-by-yl-technology-experts/"><u>Mastering Hardware Fixes: Expert Advice for Troubleshooting Failures by YL Technology Experts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-cartoonify-your-footage-the-ultimate-conversion-tutorial/"><u>New In 2024, Cartoonify Your Footage The Ultimate Conversion Tutorial</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sonys-sonic-revolution-hearing-3d/"><u>Sony's Sonic Revolution: Hearing 3D</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/stunning-photographic-showcase-santa-monica-pier-hd-walls-and-desktops-premium-visual-content-from-yl-software/"><u>Stunning Photographic Showcase: Santa Monica Pier HD Walls and Desktops – Premium Visual Content From YL Software</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-fortnites-voice-chatting-glitches-fast-and-efficiently/"><u>Troubleshoot Fortnite's Voice Chatting Glitches Fast & Efficiently!</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-streamlining-audio-capture-on-desktops-expert-tips-for-using-audacity/"><u>Updated In 2024, Streamlining Audio Capture on Desktops Expert Tips for Using Audacity</u></a></li>
 </ul></div>
 

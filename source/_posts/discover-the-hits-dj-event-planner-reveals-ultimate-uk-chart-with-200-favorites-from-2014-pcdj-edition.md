@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hits: DJ Event Planner Reveals Ultimate UK Chart with 200 Favorites From 2014 - PCDJ Edition"
-date: 2024-12-26T17:40:37.194Z
-updated: 2024-12-29T20:01:41.579Z
+date: 2025-01-02T18:55:24.671Z
+updated: 2025-01-08T16:55:50.473Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ DJ Event Planner compiled this list based on over 2 million song requests made u
 For the entire list of 200 most requested songs in the UK in 2014 click [HERE](http://djeventplanner.com/mostrequesteduk.htm)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,22 +59,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/toprequestedsongs-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-3-effective-methods-to-archive-itunes-videos-for-2024/"><u>[New] 3 Effective Methods to Archive iTunes Videos for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-the-investors-handbook-for-monetized-youtubers/"><u>[New] In 2024, The Investor's Handbook for Monetized Youtubers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-2023-dive-into-apeaksofts-video-capture-marvels/"><u>[Updated] 2024 Approved The 2023 Dive Into Apeaksoft’s Video Capture Marvels</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-xs-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone XS Max? | Stellar</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-to-retrieve-your-files-after-a-hard-drive-failure-a-guide-by-yl-computing/"><u>How to Retrieve Your Files After a Hard Drive Failure: A Guide by YL Computing</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-to-seamlessly-launch-and-view-pdfs-on-your-pc-with-yl-softwares-tips/"><u>How to Seamlessly Launch and View PDFs on Your PC with YL Software's Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-105-classic-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nokia 105 Classic PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-video-selfie-verfication-is-it-really-useful/"><u>In 2024, Instagram Video Selfie Verfication - Is It Really Useful?</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/mastering-motherboard-driver-updates-the-essential-steps-tips-from-yl-software/"><u>Mastering Motherboard Driver Updates: The Essential Steps - Tips From YL Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/peaceful-pixel-playgrounds-idle-worlds-await/"><u>Peaceful Pixel Playgrounds: Idle Worlds Await</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/quick-steps-for-igtv-on-instagram-stories-for-2024/"><u>Quick Steps for IGTV on Instagram Stories for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/resolving-problems-with-microsoft-office-on-windows-expert-tips-and-tricks-yl-computing/"><u>Resolving Problems with Microsoft Office on Windows: Expert Tips & Tricks - YL Computing</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/reviving-your-usb-port-a-step-by-step-guide-by-the-technical-experts-at-yl-computing/"><u>Reviving Your USB Port: A Step-by-Step Guide by the Technical Experts at YL Computing</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/solving-common-printer-problems-using-control-panel-expert-tips-from-yl-computing-and-software/"><u>Solving Common Printer Problems Using Control Panel - Expert Tips From YL Computing & Software</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-customizing-your-windows-11-background-with-ease-tips-from-yl-computing/"><u>Step-by-Step Guide: Customizing Your Windows 11 Background with Ease - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/the-pathway-to-dominance-understanding-the-chinese-communist-partys-ascension-with-yl-software-insights/"><u>The Pathway to Dominance: Understanding the Chinese Communist Party's Ascension with YL Software Insights</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-tier-eero-pro-performance-analysis-for-seamless-whole-home-wifi-connectivity/"><u>Top-Tier Eero Pro Performance Analysis for Seamless Whole Home WiFi Connectivity</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-demystifying-the-instagram-video-constraint/"><u>[Updated] Demystifying the Instagram Video Constraint</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-from-camera-to-canvas-getting-started-with-lunapic/"><u>2024 Approved From Camera to Canvas Getting Started with LunaPic</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/microsoft-windows-aomei/"><u>安心できるMicrosoft Windowsバックアップ・災害リカバリソフトウェア - AOMEIの信頼性抜群技術者サービス</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-unveils-revolutionary-on-device-ai-realmsurpasses-gpt-4-in-performance-zdnet/"><u>Apple Unveils Revolutionary On-Device AI, ReaLMSurpasses GPT-4 in Performance - ZDNet</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/fast-resolution-wanted-file-transfer-blocked-by-existing-onedrive-folder-how-to-fix-quickly/"><u>Fast Resolution Wanted: File Transfer Blocked by Existing Onedrive Folder - How to Fix Quickly?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guia-paso-a-paso-para-la-conversion-gratuita-de-wmv-a-mov-online-soluciones-expertas-por-movavi/"><u>Guía Paso a Paso Para La Conversión Gratuita De WMV a MOV Online: Soluciones Expertas Por Movavi</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/hyper-v-erklart-eine-lernreise-ins-herz-von-windows-virtualisierung/"><u>Hyper-V Erklärt - Eine Lernreise Ins Herz Von Windows Virtualisierung</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone 13 Pro Max</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-reviews-by-tomtech-savvy-unveiled/"><u>In-Depth Reviews by TomTech Savvy Unveiled</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quizzical-quests-top-trivia-video-platforms-for-2024/"><u>Quizzical Quests Top Trivia Video Platforms for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/section-e-factains-pediatric-pneumonia-treatment-choices/"><u>Section E.: Factains - Pediatric Pneumonia Treatment Choices</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/simple-guide-to-safeguard-your-data-4-step-process-for-computer-file-backups/"><u>Simple Guide to Safeguard Your Data: 4-Step Process for Computer File Backups</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/step-by-step-guide-to-framing-youtube-content-for-free-for-2024/"><u>Step-By-Step Guide to Framing YouTube Content for Free for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/step-by-step-tutorial-on-setting-up-user-authorization-in-vmware-vcenter/"><u>Step-by-Step Tutorial on Setting Up User Authorization in VMware vCenter</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/top-ranked-photo-restoration-tools-for-all-versions-of-windows-11-10-8-and/"><u>Top-Ranked Photo Restoration Tools for All Versions of Windows (11, 10, 8 &</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/transferring-images-from-an-ios-device-to-a-computer-without-using-cable-connections/"><u>Transferring Images From an iOS Device to a Computer Without Using Cable Connections</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-virtualdub-alternative-guide/"><u>Updated 2024 Approved The Ultimate Virtualdub Alternative Guide</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/verhindern-sie-den-verlust-wichtiger-daten-mit-diesen-methoden-um-automatisch-geloschte-dateien-zu-stoppen-und-wiederherzustellen/"><u>Verhindern Sie Den Verlust Wichtiger Daten Mit Diesen Methoden, Um Automatisch Gelöschte Dateien Zu Stoppen Und Wiederherzustellen</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/vidvault-seamless-techniques-for-securing-tweeted-videos/"><u>VidVault Seamless Techniques for Securing Tweeted Videos</u></a></li>
 </ul></div>
 
