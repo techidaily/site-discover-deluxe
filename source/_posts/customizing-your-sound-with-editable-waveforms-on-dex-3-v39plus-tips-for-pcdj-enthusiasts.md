@@ -1,7 +1,7 @@
 ---
 title: Customizing Your Sound with Editable Waveforms on DEX 3 (v3.9+) - Tips for PCDJ Enthusiasts
-date: 2025-01-04T07:09:05.720Z
-updated: 2025-01-09T04:43:28.504Z
+date: 2025-01-08T19:11:46.313Z
+updated: 2025-01-15T00:07:00.145Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ DEX 3 is our **top DJ mixing software** solution for today’s versatile DJ that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How-To Edit DEX 3 Waveform Colors
 
 **1)** You will need to access the DEX 3 XML skin file you wish to edit. The skin files for DEX 3 are located in the DEX 3 program folder.
@@ -46,20 +42,20 @@ If you’re on a MAC the skin files are located inside the application itself. Y
 [VIEW LARGER IMAGE ![DEX 3 Skins Folder Location](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/01/dex2skinfolder.jpg?fit=300%2C195&ssl=1 "DEX 3 Skins Folder Location")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/01/dex2skinfolder.jpg?fit=1030%2C669&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Inside of the DEX 3 Skins folder you will find XML files for each DEX 3 skin variation. The 4-deck default skin will be labeled “dex38\_4” and the default (main) 2-deck default skin is labeled “dex38\_2”. You will need to right-click (Ctrl + Click on MAC) and open the XML file with a standard text editor such as Notepad on Windows or TextWrangler, Atom, Xcode, etc on MAC.
 
 [VIEW LARGER IMAGE ![Open DEX 3 XML skin files in notepad or text editor](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/open-skin-file-notepad.jpg?fit=300%2C195&ssl=1 "Open DEX 3 XML skin files in notepad or text editor")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/open-skin-file-notepad.jpg?fit=1030%2C671&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Once you’ve opened up the Skin XML file in a text editor, locate the text section (near the bottom) titled “Sound Display”. It’s in this section where you can edit the color codes for each DEX 3 deck. It’s shown highlighted in the image to the right. 
 
 [VIEW LARGER IMAGE ![DEX 3 sound display section](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/sound-display-skin-section.jpg?fit=300%2C169&ssl=1 "DEX 3 sound display section")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/sound-display-skin-section.jpg?fit=1030%2C579&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** The color codes (HEX) you can edit for each deck (Note: we are demonstrating with the 4-deck XML file) are outlined in the image to the right.
 
@@ -70,6 +66,10 @@ You can simply type in or copy and paste in the color code you wish to use, repl
   
 [VIEW LARGER IMAGe ![DEX 3 color codes to edit for waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/colorcodes-to-edit-DEX3.jpg?fit=300%2C169&ssl=1 "DEX 3 color codes to edit for waveforms")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/colorcodes-to-edit-DEX3.jpg?fit=1030%2C579&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Once you’ve edited the waveform color codes to your preference you can simply save the XML (via the text editor you’re using to edit the color codes) back into the skins folder, replacing the existing XML file already there. Make sure you just SAVE, and do not change the format of the skin file (It needs to remain an XML file). That should do it — launch DEX 3 after saving the XML file and your waveform color edits will be active!
 
 #### Here’s an edit I made to DEX 3’s deck A and deck C waveform colors for demonstration purposes:
@@ -77,13 +77,13 @@ You can simply type in or copy and paste in the color code you wish to use, repl
 [VIEW LARGER IMAGE ![DEX 3 with colored waveforms](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/dex3-colored-waveforms.jpg?fit=1030%2C579&ssl=1 "DEX 3 with colored waveforms")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/dex3-colored-waveforms.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about **editing the waveform colors** in DEX 3 **DJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -105,20 +105,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/editingwaveformcolors.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-foremost-biodegradable-equipment-for-video-filming/"><u>[Updated] In 2024, Foremost Biodegradable Equipment for Video Filming</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-innovative-techniques-crafting-unique-boomerangs-on-snapchat/"><u>[Updated] In 2024, Innovative Techniques Crafting Unique Boomerangs on Snapchat</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-unveiling-the-secrets-acquiring-attractive-pexel-photos/"><u>[Updated] In 2024, Unveiling the Secrets Acquiring Attractive Pexel Photos</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1728502411396-crucial-ssd/"><u>最も信頼性の高いCrucial SSDバックアップソフトウェア - 快適、安全、簡単操作</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-role-in-crafting-the-next-generation-of-content/"><u>AI's Role in Crafting the Next Generation of Content</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-battle-apple-tv-4k-stacked-against-roku-ultra-for-top-performance/"><u>Head-to-Head Battle: Apple TV 4K Stacked Against Roku Ultra for Top Performance</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g24-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G24 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/leading-vpn-solutions-for-enhanced-online-privacy-in-202amazing-and-inspected-your-ultimate-guide-netguardian/"><u>Leading VPN Solutions for Enhanced Online Privacy in 202Amazing and Inspected: Your Ultimate Guide | NetGuardian</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/lost-track-of-your-latest-excel-spreadsheets-what-happened/"><u>Lost Track of Your Latest Excel Spreadsheets – What Happened?</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/problem-losen-scanner-in-windows-11-wird-ubersehen/"><u>Problem Lösen: Scanner in Windows 11 Wird Übersehen</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-and-simple-solutions-for-troubleshooting-dell-audio-issues/"><u>Quick and Simple Solutions for Troubleshooting Dell Audio Issues</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/resolvez-les-problemes-de-disque-dur-detectes-en-windows-10-avec-ces-astuces-efficaces/"><u>Résolvez Les Problèmes De Disque Dur Détectés en Windows 10 Avec Ces Astuces Efficaces</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/techniques-efficaces-pour-se-doter-dune-protection-robuste-contre-les-malwares-de-rancongiciel/"><u>Techniques Efficaces Pour Se Doter D'une Protection Robuste Contre Les Malwares De Rançongiciel</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/tutorial-passaggio-da-hdd-a-ssd-senza-reinstallare-windows-ecco-come/"><u>Tutorial: Passaggio Da HDD a SSD Senza Reinstallare Windows - Ecco Come</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1728500984459-usb/"><u>フル削除後のUSBメモリデータ復旧手順</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/tis-the-season-for-laughs-the-goofy-vhs-special/"><u>'Tis the Season for Laughs 'The Goofy' VHS Special</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-perfecting-altered-text-aesthetics-in-visual-media/"><u>[New] In 2024, Perfecting Altered Text Aesthetics in Visual Media</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-charting-the-course-from-adsense-income-to-savings/"><u>[Updated] Charting the Course From AdSense Income to Savings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-detailed-evaluation-razer-kiyo-webcam/"><u>[Updated] In 2024, Detailed Evaluation Razer Kiyo Webcam</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1728500313144-powerpoint/"><u>「無保存状態で終了されたPowerPointファイルを回復する３つの手法」</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/osplextor-ssd/"><u>「OS向け最適化されたPlextor SSDコピーツール：高性能デバイスを完全に複製します」</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-light-shadow-and-subtlety-in-film-coloring/"><u>2024 Approved Light, Shadow & Subtlety in Film Coloring</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/diy-tutorial-building-a-windows-11-recovery-tool-from-scratch-using-an-alternative-machine/"><u>DIY Tutorial: Building a Windows 11 Recovery Tool From Scratch Using an Alternative Machine</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-y78t-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo Y78t Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-access-savvy-setting-up-google-passwords-on-your-android-home-screen/"><u>Quick Access Savvy: Setting Up Google Passwords on Your Android Home Screen</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/seamless-wifi-passphrase-transfer-von-iphone-zu-iphone-zwei-effektive-methoden/"><u>Seamless WiFi-Passphrase Transfer Von iPhone Zu iPhone – Zwei Effektive Methoden</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-on-moving-files-from-ssd-to-hdd-in-windows-operating-systems/"><u>Step-by-Step Guide on Moving Files From SSD to HDD in Windows Operating Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-honor-play-40c-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Honor Play 40C Location | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-software-for-seamless-mp4-to-divx-video-conversion/"><u>Top Rated Software for Seamless MP4 to DivX Video Conversion</u></a></li>
 </ul></div>
 
