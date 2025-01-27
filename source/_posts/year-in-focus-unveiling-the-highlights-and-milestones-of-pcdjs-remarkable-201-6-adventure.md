@@ -1,7 +1,7 @@
 ---
 title: "Year in Focus: Unveiling the Highlights and Milestones of PCDJ's Remarkable 201 6 Adventure"
-date: 2025-01-14T22:03:57.452Z
-updated: 2025-01-20T18:34:06.279Z
+date: 2025-01-26T00:46:26.943Z
+updated: 2025-01-27T01:25:16.887Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ Highlights From 2016
@@ -41,7 +41,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * Released a revamped DJ controller detection protocol that allows for real-time detection of DJ controllers, even while mixing. DJs can also use up to 8 DJ controller simultaneously, with zero-configure support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Added support for 10 [DJ controllers](https://tools.techidaily.com/pcdj/products/) from some of the biggest DJ equipment providers in the business, including support for the [Pioneer DDJ-SB2](https://tools.techidaily.com/pcdj/products/), [DDJ-RR and DDJ-RB](https://tools.techidaily.com/pcdj/products/). The [Hercules DJControl JogVision](https://tools.techidaily.com/pcdj/products/) and [Hercules P32](https://tools.techidaily.com/pcdj/products/) controllers. [Reloop RMP-4](https://tools.techidaily.com/pcdj/products/) and [Mixon 4](https://tools.techidaily.com/pcdj/products/) are also now plug-and-play with both [DEX 3](https://tools.techidaily.com/pcdj/products/) and [DEX 3 RE](https://tools.techidaily.com/pcdj/products/) DJ programs.
@@ -55,6 +55,10 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * Introduced improved audio and video playback engine for higher-quality, accurate playback of standard karaoke files  
 [LEARN MORE ABOUT KARAOKI ![Karaoke Software](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/karaoki-new-searchresultspane.png?fit=300%2C190&ssl=1 "Karaoke Software")](https://tools.techidaily.com/pcdj/products/)
 * New [“Search Results” view](https://tools.techidaily.com/pcdj/products/) that expands the rotation list the entire right-hand side of the Karaoki browser with search results displaying in the large middle library pane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Added [‘Search History’ and large search pop-up](https://tools.techidaily.com/pcdj/products/) – KJs can view all their past song searches and double-click in the smaller search box to display a much larger version.
 * Karaoki can now use several new graphics formats (jpeg, png) as CDG backdrops, when loaded it can copy-convert the images to BMP’s that it can then load.
@@ -72,7 +76,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 [MORE ABOUT JAMMTEXT ![jammtext logo](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/09/jammtext-logo-black.png?fit=300%2C61&ssl=1 "jammtext logo")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As always, we strive to be accessible to our DJ and karaoke software users. We want to ensure that when you have a question it’s answered thoroughly and professionally in a very timely fashion. We updated the PCDJ website to include a new web chat, robust support ticketing tracking system and created new [PCDJ user forums](https://tools.techidaily.com/pcdj/products/).
@@ -81,14 +85,10 @@ We found new partners at MixCity Inc, the creators of [JammText](https://tools.t
 
 _**That’s a good look at 2016’s highlights for PCDJ. Please check back next week for a look ahead at what our goals are for 2017!**_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Happy New Year, Friends!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,20 +110,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/pcdj2016yearinreview-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-top-picks-for-instagram-soundtracks-and-how-to-design-a-stellar-chime/"><u>[New] 2024 Approved Top Picks for Instagram Soundtracks & How to Design a Stellar Chime</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-examining-the-unique-features-of-youtubes-and-dailymentions/"><u>[Updated] 2024 Approved Examining the Unique Features of YouTubes and DailyMentions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-building-a-compelling-cinematic-snippet-for-2024/"><u>[Updated] Building a Compelling Cinematic Snippet for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-download-free-youtube-pics-and-templates/"><u>[Updated] Download Free YouTube Pics & Templates</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1728461899656-windows-10/"><u>透過經驗證測試確保解決伺服器Windows 10上隱形文件夹</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/cartouche-compactflash-professionnelle-duplicateur-avec-capacite-complet-depliant-des-donnees-dorigine/"><u>Cartouche CompactFlash Professionnelle - Duplicateur Avec Capacité Complet Dépliant Des Données D'origine</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comprehensive-lg-bp350-monitor-review-with-comparisons-for-2024/"><u>Comprehensive LG BP350 Monitor Review with Comparisons for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/effortless-full-system-backup-for-windows-11-discover-these-2-cost-free-solutions/"><u>Effortless Full System Backup for Windows 11: Discover These 2 Cost-Free Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gratuito-conversion-de-archivos-flv-a-mkv-en-linea-guia-paso-a-paso-usando-movavi/"><u>Gratuito Conversión De Archivos FLV a MKV en Línea: Guía Paso a Paso Usando Movavi</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Honor Magic V2? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719581875041-italian-numbers-made-easy-count-to-1000-and-beyond-in-italian/"><u>Italian Numbers Made Easy – Count to 1000 and Beyond in Italian</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/pc-windows-10/"><u>PC初期設定: Windows 10バージョンアップ完了後</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/reclaim-your-missing-documents-top-7-methods-for-file-restoration-on-windows-10/"><u>Reclaim Your Missing Documents: Top 7 Methods for File Restoration on Windows 10</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/secure-your-playstation-5-discover-the-3-best-techniques-for-quick-and-dependable-backups/"><u>Secure Your PlayStation 5: Discover the 3 Best Techniques for Quick and Dependable Backups</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-masterclass-in-real-time-twitvid-engagement/"><u>2024 Approved Masterclass in Real-Time TwitVid Engagement</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-s17-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo S17 Pro Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210309029-9781908421487-great-moments-of-modern-mediumship/"><u>Great Moments of Modern Mediumship | Free Book</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-boosting-vimeo-streams-tips-and-tricks/"><u>In 2024, Boosting Vimeo Streams Tips & Tricks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-how-to-disable-igtv-feature/"><u>In 2024, How to Disable IGTV Feature</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovation-in-your-hands-the-sonic-experience-of-xperia-xz-for-2024/"><u>Innovation in Your Hands The Sonic Experience of Xperia XZ for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/maximize-your-pcs-performance-effective-ways-to-release-unused-system-memory-tips-by-yl-computing/"><u>Maximize Your PC's Performance: Effective Ways to Release Unused System Memory - Tips by YL Computing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/remobell-under-100-dollars-your-ultimate-guide-to-a-secure-smart-home/"><u>RemoBell Under 100 Dollars: Your Ultimate Guide to a Secure Smart Home</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/uncovering-the-root-of-hardware-failures-in-windows-systems-with-expert-advice-from-yl-software/"><u>Uncovering the Root of Hardware Failures in Windows Systems with Expert Advice From YL Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/understanding-your-rights-with-digiartys-winxdvd-licensing-terms/"><u>Understanding Your Rights with Digiarty's WinXDVD Licensing Terms</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/unlocking-remote-configuration-on-pc-navigating-the-windows-control-panel-with-ease-tips-from-yl-computing-experts/"><u>Unlocking Remote Configuration on PC: Navigating the Windows Control Panel with Ease – Tips From YL Computing Experts</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/verifying-proper-functionality-of-your-cooling-fans-a-guide-by-yl-computing/"><u>Verifying Proper Functionality of Your Cooling Fans: A Guide by YL Computing</u></a></li>
 </ul></div>
 

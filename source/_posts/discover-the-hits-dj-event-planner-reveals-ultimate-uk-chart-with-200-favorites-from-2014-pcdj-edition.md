@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hits: DJ Event Planner Reveals Ultimate UK Chart with 200 Favorites From 2014 - PCDJ Edition"
-date: 2025-01-13T19:55:08.971Z
-updated: 2025-01-14T21:00:02.353Z
+date: 2025-01-24T21:18:42.057Z
+updated: 2025-01-26T19:34:29.949Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ DJ Event Planner compiled this list based on over 2 million song requests made u
 For the entire list of 200 most requested songs in the UK in 2014 click [HERE](http://djeventplanner.com/mostrequesteduk.htm)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,19 +59,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/toprequestedsongs-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-prime-binge-worthy-hits-highest-tweets-and-view-counts/"><u>[New] 2024 Approved Prime Binge-Worthy Hits Highest Tweets & View Counts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/xpand-audiences-quickly-using-short-form-content/"><u>[New] Expand Audiences Quickly Using Short Form Content</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ice-warriors-unleashed-at-2022-games/"><u>[New] In 2024, Ice Warriors Unleashed at 2022 Games</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ransform-your-youtube-views-into-profits-instantly/"><u>[New] Transform Your YouTube Views Into Profits Instantly</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-redefining-content-creation-beyond-vimeo-tools/"><u>[Updated] 2024 Approved Redefining Content Creation Beyond Vimeo Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-acid-pro-overview-plus-best-software-match-ups/"><u>2024 Approved ACID Pro Overview + Best Software Match-Ups</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1726028278582-youtube/"><u>動画中音楽を発見するテクニック: YouTube背景音楽の識別・抽出ガイド</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1726027308931-h264/"><u>効果的なH264ファイル最適化戦略 - ダウンサイジングのトリビア</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1726027674765-5/"><u>最新の編集機能が搭載されたビデオ作成アプリ5つ:ご紹介</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/fixing-video-editor-troubles-how-to-enable-features-with-a-compatibility-add-on-for-windows-11-users/"><u>Fixing Video Editor Troubles: How to Enable Features with a Compatibility Add-On for Windows 11 Users</u></a></li>
-<li><a href="https://win-help.techidaily.com/guide-simple-pour-sassurer-la-securite-des-donnees-avant-reinitialiser-pc-a-zero-facilement/"><u>Guide Simple Pour S'Assurer La Sécurité Des Données Avant Réinitialiser PC À Zéro Facilement</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/mp3-amazon-music/"><u>MP3形式で音楽配信の適応: Amazon Musicから自由に利用可能</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1726026865314-pcyoutube/"><u>PCでのYouTubeショート動画記録・保存ガイド</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-poco-f5-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Poco F5 5G Phones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-comprehensible-guide-to-integrating-zoom-with-win10/"><u>[Updated] A Comprehensible Guide to Integrating Zoom with Win10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-efficient-methods-for-top-tier-gopro-studio-editing/"><u>[Updated] In 2024, Efficient Methods for Top-Tier GoPro Studio Editing</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-initiating-high-quality-screenshots-via-discord/"><u>[Updated] In 2024, Initiating High-Quality Screenshots via Discord</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-animating-elegance-self-designed-tricks-and-effects/"><u>2024 Approved Animating Elegance Self-Designed Tricks & Effects</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/comment-faire-le-gros-lot-en-telechargeant-des-fichiers-zip-gratuits-sous-windows-1011/"><u>Comment Faire Le Gros Lot en Téléchargeant Des Fichiers Zip Gratuits Sous Windows 10/11</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/guide-to-retrieving-lost-game-progress-in-snowrunner-for-playstation-and-xbox-users/"><u>Guide to Retrieving Lost Game Progress in SnowRunner for PlayStation and Xbox Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-15-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 15 without a computer</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/outlook-expressoutlook/"><u>Outlook Expressから新しいOutlookにスムーズな移行ガイド</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/schritt-fur-schritt-guide-wie-man-die-papierkorbleiste-auf-dem-desktop-in-windows-query/"><u>Schritt-Für-Schritt-Guide: Wie Man Die Papierkorbleiste Auf Dem Desktop in Windows # Query</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/top-recommended-tools-for-saving-your-windows-live-mail-on-a-pc/"><u>Top Recommended Tools for Saving Your Windows Live Mail on a PC</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/two-methods-for-performing-a-complete-system-restore-on-windows-server-2019/"><u>Two Methods for Performing a Complete System Restore on Windows Server 2019</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-filmora-its-10-most-attractive-features/"><u>Unveiling Filmora Its 10 Most Attractive Features</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/wie-sie-ihre-geloschten-informationen-wiederfinden-konnen-indem-sie-das-datenspeichersystem-neu-formatieren/"><u>Wie Sie Ihre Gelöschten Informationen Wiederfinden Können, Indem Sie Das Datenspeichersystem Neu Formatieren</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/be-mastery-starts-here-building-and-monetizing-your-channel-for-2024/"><u>YouTube Mastery Starts Here Building and Monetizing Your Channel for 2024</u></a></li>
 </ul></div>
 
