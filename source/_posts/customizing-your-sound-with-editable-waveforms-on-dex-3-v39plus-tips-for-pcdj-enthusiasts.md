@@ -1,7 +1,7 @@
 ---
 title: Customizing Your Sound with Editable Waveforms on DEX 3 (v3.9+) - Tips for PCDJ Enthusiasts
-date: 2025-01-24T21:08:20.589Z
-updated: 2025-01-27T01:11:17.108Z
+date: 2025-02-01T22:48:04.864Z
+updated: 2025-02-08T21:33:36.879Z
 tags:
   - product
 categories:
@@ -41,16 +41,12 @@ If you’re on a MAC the skin files are located inside the application itself. Y
   
 [VIEW LARGER IMAGE ![DEX 3 Skins Folder Location](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/01/dex2skinfolder.jpg?fit=300%2C195&ssl=1 "DEX 3 Skins Folder Location")](https://i2.wp.com/pcdj.com/wp-content/uploads/2018/01/dex2skinfolder.jpg?fit=1030%2C669&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Inside of the DEX 3 Skins folder you will find XML files for each DEX 3 skin variation. The 4-deck default skin will be labeled “dex38\_4” and the default (main) 2-deck default skin is labeled “dex38\_2”. You will need to right-click (Ctrl + Click on MAC) and open the XML file with a standard text editor such as Notepad on Windows or TextWrangler, Atom, Xcode, etc on MAC.
 
 [VIEW LARGER IMAGE ![Open DEX 3 XML skin files in notepad or text editor](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/open-skin-file-notepad.jpg?fit=300%2C195&ssl=1 "Open DEX 3 XML skin files in notepad or text editor")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/open-skin-file-notepad.jpg?fit=1030%2C671&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Once you’ve opened up the Skin XML file in a text editor, locate the text section (near the bottom) titled “Sound Display”. It’s in this section where you can edit the color codes for each DEX 3 deck. It’s shown highlighted in the image to the right. 
@@ -58,7 +54,7 @@ If you’re on a MAC the skin files are located inside the application itself. Y
 [VIEW LARGER IMAGE ![DEX 3 sound display section](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/sound-display-skin-section.jpg?fit=300%2C169&ssl=1 "DEX 3 sound display section")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/sound-display-skin-section.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** The color codes (HEX) you can edit for each deck (Note: we are demonstrating with the 4-deck XML file) are outlined in the image to the right.
@@ -70,6 +66,10 @@ You can simply type in or copy and paste in the color code you wish to use, repl
   
 [VIEW LARGER IMAGe ![DEX 3 color codes to edit for waveforms](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/colorcodes-to-edit-DEX3.jpg?fit=300%2C169&ssl=1 "DEX 3 color codes to edit for waveforms")](https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/colorcodes-to-edit-DEX3.jpg?fit=1030%2C579&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Once you’ve edited the waveform color codes to your preference you can simply save the XML (via the text editor you’re using to edit the color codes) back into the skins folder, replacing the existing XML file already there. Make sure you just SAVE, and do not change the format of the skin file (It needs to remain an XML file). That should do it — launch DEX 3 after saving the XML file and your waveform color edits will be active!
 
 #### Here’s an edit I made to DEX 3’s deck A and deck C waveform colors for demonstration purposes:
@@ -77,13 +77,13 @@ You can simply type in or copy and paste in the color code you wish to use, repl
 [VIEW LARGER IMAGE ![DEX 3 with colored waveforms](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/dex3-colored-waveforms.jpg?fit=1030%2C579&ssl=1 "DEX 3 with colored waveforms")](https://i1.wp.com/pcdj.com/wp-content/uploads/2018/01/dex3-colored-waveforms.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Have questions about **editing the waveform colors** in DEX 3 **DJ mixing software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -105,22 +105,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/01/editingwaveformcolors.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-live-photo-reconstruction-into-time-lapse-movies/"><u>[New] Live Photo Reconstruction Into Time-Lapse Movies</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-metaverse-versus-multimetase-analyzing-their-core-disparities/"><u>[New] Metaverse Versus MultiMetase Analyzing Their Core Disparities</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-superb-costless-video-rendezvous-games/"><u>[New] Superb Costless Video Rendezvous Games</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-synchronizing-releases-with-listener-habits/"><u>2024 Approved Synchronizing Releases with Listener Habits</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/comment-restaurer-des-photos-manquantes-de-la-cartouche-memoire-de-votre-appareil-photo/"><u>Comment Restaurer Des Photos Manquantes De La Cartouche Mémoire De Votre Appareil Photo ?</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/guide-pour-recouvrer-vos-fichiers-word-endommages-suite-a-une-panne-du-systeme/"><u>Guide Pour Recouvrer Vos Fichiers Word Endommagés Suite À Une Panne Du Système.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS Max to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-snippetsnapper-a-close-look-at-micro-recorders/"><u>In 2024, SnippetSnapper A Close Look at Micro-Recorders</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-hdr-images-into-professional-grade-time-lapses-with-gopro-studio/"><u>In 2024, Transform Your HDR Images Into Professional-Grade Time Lapses with GoPro Studio</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/ios-aomei-fonebackup/"><u>IOSデバイスに効果的なデータ保護: AOMEI FoneBackup利用ガイド</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/new-release-macx-dvd-ripper-pro-version-46-with-enhanced-compatibility-for-macos-el-capitan/"><u>New Release: MacX DVD Ripper Pro Version 4.6 with Enhanced Compatibility for macOS El Capitan</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolved-7-effective-solutions-to-fix-nba-2k23-pc-crashing-issues/"><u>Resolved: 7 Effective Solutions to Fix NBA 2K23 PC Crashing Issues</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/synchronisierung-von-icloud-kontakten-mit-iphone-und-ipad-losung-fur-haufige-probleme/"><u>Synchronisierung Von iCloud-Kontakten Mit iPhone Und iPad - Lösung Für Häufige Probleme</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/top-5-solutions-for-resolving-high-disk-usage-by-antimalware-service-executive/"><u>Top 5 Solutions for Resolving High Disk Usage by Antimalware Service Executive</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/verhelpen-ie-hoe-man-verwijderde-fotos-herhaalt-in-ios-15-op-iphone-11-en-13/"><u>Verhelpen IE Hoe Man Verwijderde Foto's Herhaalt in iOS 15 Op iPhone 11 en 13</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1728497875910-windows-11/"><u>Windows 11 システムのアップデート失敗解決:予約領域修正方法</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/kak-peremestit-vash-server-na-drugoe-mesto-3-effektivnyh-sposoba/"><u>Как Переместить Ваш Сервер На Другое Место: 3 Эффективных Способа</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-your-potential-skyrocketing-youtube-audience/"><u>[New] Unleash Your Potential Skyrocketing YouTube Audience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/best-internet-capture-devices-for-2024/"><u>Best Internet Capture Devices for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/boundless-realms-discovering-new-worlds-in-top-10-sci-fi-epics-for-2024/"><u>Boundless Realms Discovering New Worlds in Top 10 Sci-Fi Epics for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/computex-showcase-highlights-adatas-breakthrough-hybrid-cooling-system-future-unveiling-of-powerful-psus-and-fast-pcie-ssds/"><u>Computex Showcase Highlights Adata's Breakthrough Hybrid Cooling System - Future Unveiling of Powerful PSUs and Fast PCIe SSDs</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/full-peppa-pig-show-collection-simple-steps-for-hassle-free-viewing/"><u>Full Peppa Pig Show Collection - Simple Steps for Hassle-Free Viewing!</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/get-high-quality-sapo-videos-for-nothing-discover-these-4-downloading-techniques/"><u>Get High-Quality SAPO Videos for Nothing! Discover These 4 Downloading Techniques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-x50iplus-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Honor X50i+ Users</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/maintain-high-quality-video-a-step-by-step-guide-on-how-to-upload-without-losing-clarity-to-youtube/"><u>Maintain High-Quality Video: A Step-by-Step Guide on How to Upload Without Losing Clarity to YouTube</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-video-editing-tools-on-the-latest-windows-11/"><u>Navigating Video Editing Tools on the Latest Windows 11</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/nokia-x7-unleash-your-entertainment-with-classic-nokia-design/"><u>Nokia X7: Unleash Your Entertainment with Classic Nokia Design</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/pc-cdsd/"><u>PC用: CDディスクをSDカードへと記録する簡単ガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-tips-and-fixes-for-persistent-halo-3-crashes-on-pcs/"><u>Solved! Tips and Fixes for Persistent Halo 3 Crashes on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-0x803f8001-issue-fixes-for-minecraft-launcher-on-windows-11-and-10/"><u>Solving the 0X803F8001 Issue: Fixes for Minecraft Launcher on Windows 11 and 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/pcandroidiphone/"><u>クリップした後も続く！ PC/Android/iPhone で動画の最中から切り取る究極ガイド</u></a></li>
 </ul></div>
 

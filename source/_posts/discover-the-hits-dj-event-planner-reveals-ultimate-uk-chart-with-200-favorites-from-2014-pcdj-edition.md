@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hits: DJ Event Planner Reveals Ultimate UK Chart with 200 Favorites From 2014 - PCDJ Edition"
-date: 2025-01-24T21:18:42.057Z
-updated: 2025-01-26T19:34:29.949Z
+date: 2025-02-08T00:26:43.606Z
+updated: 2025-02-09T01:08:33.763Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ DJ Event Planner compiled this list based on over 2 million song requests made u
 For the entire list of 200 most requested songs in the UK in 2014 click [HERE](http://djeventplanner.com/mostrequesteduk.htm)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,20 +59,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/toprequestedsongs-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-a-comprehensible-guide-to-integrating-zoom-with-win10/"><u>[Updated] A Comprehensible Guide to Integrating Zoom with Win10</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-efficient-methods-for-top-tier-gopro-studio-editing/"><u>[Updated] In 2024, Efficient Methods for Top-Tier GoPro Studio Editing</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-initiating-high-quality-screenshots-via-discord/"><u>[Updated] In 2024, Initiating High-Quality Screenshots via Discord</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-animating-elegance-self-designed-tricks-and-effects/"><u>2024 Approved Animating Elegance Self-Designed Tricks & Effects</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/comment-faire-le-gros-lot-en-telechargeant-des-fichiers-zip-gratuits-sous-windows-1011/"><u>Comment Faire Le Gros Lot en Téléchargeant Des Fichiers Zip Gratuits Sous Windows 10/11</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/guide-to-retrieving-lost-game-progress-in-snowrunner-for-playstation-and-xbox-users/"><u>Guide to Retrieving Lost Game Progress in SnowRunner for PlayStation and Xbox Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-15-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 15 without a computer</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/outlook-expressoutlook/"><u>Outlook Expressから新しいOutlookにスムーズな移行ガイド</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/schritt-fur-schritt-guide-wie-man-die-papierkorbleiste-auf-dem-desktop-in-windows-query/"><u>Schritt-Für-Schritt-Guide: Wie Man Die Papierkorbleiste Auf Dem Desktop in Windows # Query</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/top-recommended-tools-for-saving-your-windows-live-mail-on-a-pc/"><u>Top Recommended Tools for Saving Your Windows Live Mail on a PC</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/two-methods-for-performing-a-complete-system-restore-on-windows-server-2019/"><u>Two Methods for Performing a Complete System Restore on Windows Server 2019</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unveiling-filmora-its-10-most-attractive-features/"><u>Unveiling Filmora Its 10 Most Attractive Features</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/wie-sie-ihre-geloschten-informationen-wiederfinden-konnen-indem-sie-das-datenspeichersystem-neu-formatieren/"><u>Wie Sie Ihre Gelöschten Informationen Wiederfinden Können, Indem Sie Das Datenspeichersystem Neu Formatieren</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/be-mastery-starts-here-building-and-monetizing-your-channel-for-2024/"><u>YouTube Mastery Starts Here Building and Monetizing Your Channel for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-maximize-impact-with-custom-icons-and-graphics-on-your-instagram-posts-for-2024/"><u>[New] Maximize Impact with Custom Icons and Graphics on Your Instagram Posts for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ideo-sharing-giants-clash-vimeo-vs-youtube/"><u>[New] Video Sharing Giants Clash Vimeo vs YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-foremost-frame-openers-identifying-the-most-effective-16-youtube-intros/"><u>[Updated] 2024 Approved Foremost Frame Openers Identifying the Most Effective 16 YouTube Intros</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimizing-your-browsing-mastering-firefoxs-pip/"><u>[Updated] Optimizing Your Browsing Mastering Firefox's PIP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tier-affordable-photo-enhancement-software-online/"><u>[Updated] Top-Tier Affordable Photo Enhancement Software Online</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/guia-paso-a-paso-para-rescatar-tus-informaciones-backup-del-disco-duro-sin-un-os/"><u>Guía Paso a Paso Para Rescatar Tus Informaciones: Backup Del Disco Duro Sin Un OS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-pro-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Realme 12 Pro 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/language-model-face-off-deciding-between-bard-chatgpt-and-offline-alpaca/"><u>Language Model Face-Off: Deciding Between Bard, ChatGPT, and Offline Alpaca</u></a></li>
+<li><a href="https://article-posts.techidaily.com/leading-websites-for-free-game-of-thrones-ringtones-for-2024/"><u>Leading Websites for Free Game of Thrones Ringtones for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/mastering-storage-efficiency-best-practices-for-deduplication-on-your-windows-server/"><u>Mastering Storage Efficiency: Best Practices for Deduplication on Your Windows Server</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/page-unavailable-error-seeing-not-found-messages-online/"><u>Page Unavailable Error - Seeing 'Not Found' Messages Online?</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/quick-guide-setting-up-your-pc-with-windows-10-via-usb-and-installing-on-m2-ssd/"><u>Quick Guide: Setting Up Your PC with Windows 10 via USB and Installing on M.2 SSD</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/revealing-secrets-behind-silent-usb-sticks-solutions-to-not-detected-troubles/"><u>Revealing Secrets Behind Silent USB Sticks: Solutions to Not Detected Troubles</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/windows-10-activepartition-4/"><u>Windows 10 における ACTIVE_PARTITION 検出不能時の解決策 4つ選び</u></a></li>
 </ul></div>
 
