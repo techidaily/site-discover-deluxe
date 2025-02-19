@@ -1,7 +1,7 @@
 ---
 title: "Discover the Hits: DJ Event Planner Reveals Ultimate UK Chart with 200 Favorites From 2014 - PCDJ Edition"
-date: 2025-02-08T00:26:43.606Z
-updated: 2025-02-09T01:08:33.763Z
+date: 2025-02-15T00:31:31.076Z
+updated: 2025-02-18T18:05:25.863Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ DJ Event Planner compiled this list based on over 2 million song requests made u
 For the entire list of 200 most requested songs in the UK in 2014 click [HERE](http://djeventplanner.com/mostrequesteduk.htm)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,20 +59,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/01/toprequestedsongs-coverima
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-maximize-impact-with-custom-icons-and-graphics-on-your-instagram-posts-for-2024/"><u>[New] Maximize Impact with Custom Icons and Graphics on Your Instagram Posts for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ideo-sharing-giants-clash-vimeo-vs-youtube/"><u>[New] Video Sharing Giants Clash Vimeo vs YouTube</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-foremost-frame-openers-identifying-the-most-effective-16-youtube-intros/"><u>[Updated] 2024 Approved Foremost Frame Openers Identifying the Most Effective 16 YouTube Intros</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-optimizing-your-browsing-mastering-firefoxs-pip/"><u>[Updated] Optimizing Your Browsing Mastering Firefox's PIP</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-tier-affordable-photo-enhancement-software-online/"><u>[Updated] Top-Tier Affordable Photo Enhancement Software Online</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/guia-paso-a-paso-para-rescatar-tus-informaciones-backup-del-disco-duro-sin-un-os/"><u>Guía Paso a Paso Para Rescatar Tus Informaciones: Backup Del Disco Duro Sin Un OS</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-pro-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Realme 12 Pro 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/language-model-face-off-deciding-between-bard-chatgpt-and-offline-alpaca/"><u>Language Model Face-Off: Deciding Between Bard, ChatGPT, and Offline Alpaca</u></a></li>
-<li><a href="https://article-posts.techidaily.com/leading-websites-for-free-game-of-thrones-ringtones-for-2024/"><u>Leading Websites for Free Game of Thrones Ringtones for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/mastering-storage-efficiency-best-practices-for-deduplication-on-your-windows-server/"><u>Mastering Storage Efficiency: Best Practices for Deduplication on Your Windows Server</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/page-unavailable-error-seeing-not-found-messages-online/"><u>Page Unavailable Error - Seeing 'Not Found' Messages Online?</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/quick-guide-setting-up-your-pc-with-windows-10-via-usb-and-installing-on-m2-ssd/"><u>Quick Guide: Setting Up Your PC with Windows 10 via USB and Installing on M.2 SSD</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/revealing-secrets-behind-silent-usb-sticks-solutions-to-not-detected-troubles/"><u>Revealing Secrets Behind Silent USB Sticks: Solutions to Not Detected Troubles</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/windows-10-activepartition-4/"><u>Windows 10 における ACTIVE_PARTITION 検出不能時の解決策 4つ選び</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-becoming-a-pro-in-video-game-broadcasts/"><u>[New] 2024 Approved Becoming a Pro in Video Game Broadcasts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-infographic-yearbook-of-2017s-youtube-insights-and-trends/"><u>[Updated] The Infographic Yearbook of 2017'S Youtube Insights & Trends</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-srt-mods-ultimate-upgrades-for-macwindows/"><u>2024 Approved Best SRT Mods Ultimate Upgrades for Mac/Windows</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-evaluation-of-fb-video-shapes/"><u>2024 Approved Evaluation of FB Video Shapes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-startups-secret-weapon-kit-must-have-items-that-set-you-apart/"><u>2024 Approved The Startup's Secret Weapon Kit Must-Have Items That Set You Apart</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/acquiring-digital-assets-made-easy-with-yl-software-insights-on-buying-cryptocurrency/"><u>Acquiring Digital Assets Made Easy with YL Software Insights on Buying Cryptocurrency</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-to-identify-and-fix-memory-leak-issues-on-windows-systems-expert-guide/"><u>How To Identify & Fix Memory Leak Issues on Windows Systems - Expert Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-13-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 13 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/july-2014s-updated-karaoke-cloud-pro-pack-pop-rock-and-rap-tracks-for-dj-playlists/"><u>July 2014'S Updated Karaoke Cloud Pro Pack: POP, ROCK & RAP Tracks for DJ Playlists</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210850964-9781398832169-moon-signs/"><u>Moon Signs | Free Book</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-adjusting-your-screen-display-settings-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Screen Display Settings - Tips From YL Computing</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-google-chromes-cache-miss-error-tips-and-tricks-to-get-you-back-online/"><u>The Ultimate Fix for Google Chrome's Cache Miss Error: Tips & Tricks to Get You Back Online!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-personalizing-whatsapp-ringtone-on-all-devices-for-2024/"><u>The Ultimate Guide to Personalizing WhatsApp Ringtone on All Devices for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/top-utility-programs-to-enhance-your-computers-efficiency-find-the-best-options-with-yl-computing/"><u>Top Utility Programs to Enhance Your Computer's Efficiency: Find the Best Options with YL Computing</u></a></li>
 </ul></div>
 
