@@ -1,7 +1,7 @@
 ---
 title: "画像トリミング後に元の状態を取り戻せる方法 : PC & スマートフォン編"
-date: 2025-02-03T21:35:02.171Z
-updated: 2025-02-08T20:56:29.781Z
+date: 2025-03-03T16:06:53.416Z
+updated: 2025-03-07T16:15:26.226Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685177239313164675ffec23d6.jpg
@@ -56,19 +56,11 @@ iTunes can be a good way to add ringtones to an iPhone. It can help you to custo
 
 [![](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/intercept-ringtone.png)](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/intercept-ringtone.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Right-click the same song and select **Create AAC Version**.
 
 5\. Right-click the song segment and choose **Show in Windows Explorer**. Then change the extension from “.m4a” to “.m4r.”.
 
 6\. Copy the file & delete the old one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2\. Add custom ringtones to iPhone 7
 
@@ -83,10 +75,6 @@ iTunes can be a good way to add ringtones to an iPhone. It can help you to custo
 **? Tips:** 
 * If the song you liked is not in the iTunes library, you can click **File** \> **Add Folder to Library** \> browse your computer and select the song you want to set as a ringtone to iTunes library.
 * If [Tones not showing in iTunes](https://tools.techidaily.com/ubackup/products/), you may need to choose another available way to make it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Method 2\. How to Put Ringtones on iPhone 7 via GarageBand**
 
@@ -118,10 +106,6 @@ Sometimes the song which you want to set as a ringtone stored on iPhone 7, you c
 * **Standard Text Tone**: Use the ringtone as your standard text or notifications tone.
 * **Assign to contact**: Associate a ringtone with one of your contacts.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 3\. H**ow to Add Ringtones on iPhone from PC \[Recommended\]
 
 What will be the easiest way to add ringtones to your iPhone, that's the professional ringtone maker - [AOMEI FoneBackup](https://tools.techidaily.com/ubackup/products/)!
@@ -134,10 +118,6 @@ What will be the easiest way to add ringtones to your iPhone, that's the profess
 
 ![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) **Wide compatibility** lets AOMEI FoneBackup can support various iOS devices and versions including the latest ones.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now go for it now and discover more!
 
 [Download FreewareWin 11/10/8.1/8/7/XP](https://tools.techidaily.com/ubackup/products/) 
@@ -147,10 +127,6 @@ Secure Download
 Step 1\. Launch AOMEI FoneBackup on Windows PC > Connect your iPhone to the computer > Go to **Phone Transfer** \> Choose **PC to iPhone** and click **Get Started**.
 
 ![transfer from pc to iphone](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2\. Click the **Ringtones** option > Drag and drop the files you need to the box.
 
@@ -163,14 +139,6 @@ Step 3\. Confirm the ringtones you need > Click **Start Transfer** to begin the 
 ## **How to Set Custom Ringtone on iPhone 7 after the Process**
 
 After you have put the newly created ringtones on your iPhone 7(Plus) with iTunes, GarageBand or AOMEI FoneBackup, you can now change your iPhone ringtone by setting a custom one in Settings. Go to **Settings** on your iPhone 7 > **Sounds & Haptics** \> **Ringtone** \> Select the ringtone you just added to your iPhone.[![Add Ringtones To Iphone Settings](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/phone/screenshot/en/others/iphone/add-ringtones-to-iphone-settings.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -222,10 +190,6 @@ One-Stop iPhone Data Backup and Transfer Solution.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-fb-theme/article-fb-img-dibu@1x.png)
 
 <ins class="adsbygoogle"
@@ -243,20 +207,24 @@ One-Stop iPhone Data Backup and Transfer Solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-optimized-note-recording-on-mematic-app-for-2024/"><u>[Updated] Optimized Note Recording on Mematic App for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-top-facts-in-the-asmr-world/"><u>[Updated] Top Facts in the ASMR World</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/as-dram-need-soars-sk-hynix-plans-for-boost-in-manufacturing-output/"><u>As DRAM Need Soars, SK Hynix Plans for Boost in Manufacturing Output</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/contented-with-your-pcs-speed-and-capability-learn-more-from-yl-software-experts/"><u>Contented With Your PC's Speed and Capability? Learn More From YL Software Experts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-correcting-issues-with-unresponsive-bose-speakers/"><u>Diagnosing and Correcting Issues with Unresponsive Bose Speakers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-vivo-y78plus-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Vivo Y78+ Phone</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/latest-deckease-compatibility-for-djs-download-new-modified-maps-for-denon-mc6000-mkii-on-pcdj/"><u>Latest DeckEase Compatibility for DJs: Download New Modified Maps for Denon MC6000 MKII on PCDJ</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-iphone-carrier-issues-discover-these-easy-to-follow-fixes/"><u>Overcoming iPhone Carrier Issues - Discover These Easy-to-Follow Fixes</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/recognizing-hardware-issues-a-guide-by-yl-computing-and-yl-software/"><u>Recognizing Hardware Issues: A Guide by YL Computing and YL Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/samsungs-image-manipulation-masterclass-a-review-for-2024/"><u>Samsung's Image Manipulation Masterclass A Review for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/solving-sound-playback-errors-on-your-pc-expert-advice-from-yl-software/"><u>Solving Sound Playback Errors on Your PC: Expert Advice From YL Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-fix-wininetdll-not-found-errors/"><u>Step-by-Step Guide to Fix 'wininet.dll Not Found' Errors</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/the-ripple-effects-of-the-late-19th-century-china-japan-war-a-study-in-global-relationships-by-yl-computing-and-yl-software-experts/"><u>The Ripple Effects of the Late 19Th Century China-Japan War: A Study in Global Relationships by YL Computing & YL Software Experts</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-display-issues-how-to-correct-image-warping-on-your-screen-with-tips-from-yl-computing/"><u>Troubleshooting Display Issues: How to Correct Image Warping on Your Screen with Tips From YL Computing</u></a></li>
-<li><a href="https://win-best.techidaily.com/windows-11-tutorial-zum-wiederherstellen-alter-rechtsmaustastenfunktionen/"><u>Windows 11: Tutorial Zum Wiederherstellen Alter Rechtsmaustastenfunktionen</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-enhancing-social-reach-youtube-videos-on-facebook-sites/"><u>[New] 2024 Approved Enhancing Social Reach YouTube Videos on Facebook Sites</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-streamline-your-presentation-process-webcam-recording-tips-for-2024/"><u>[New] Streamline Your Presentation Process Webcam Recording Tips for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-comprehensively-understanding-cloud-storage-with-adobe-and-why-you-should-compare/"><u>[Updated] Comprehensively Understanding Cloud Storage with Adobe and Why You Should Compare</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1-klare-anleitung-mp3-dateien-auf-ihrem-ipad-ubertragen-ohne-den-umweg-uber-itunes/"><u>1. Klare Anleitung: MP3 Dateien Auf Ihrem iPad Übertragen - Ohne Den Umweg Über iTunes</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-what-is-an-ai-script-generator/"><u>2024 Approved What Is an AI Script Generator?</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/best-of-the-best-comparing-top-3-leading-photo-deletion-restoration-apps/"><u>Best of the Best: Comparing Top 3 Leading Photo Deletion Restoration Apps</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/comment-cloner-avec-succes-un-systeme-dexploitation-windows-10-sur-un-ssd-compact/"><u>Comment Cloner Avec Succès Un Système D'Exploitation Windows 10 Sur Un SSD Compact</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/echec-de-la-prise-dexclusivite-par-le-systeme-de-sauvegarde-windows-7-strategies-alternatives/"><u>Échec De La Prise D'Exclusivité Par Le Système De Sauvegarde Windows: 7 Stratégies Alternatives</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/effective-techniques-to-remove-superfluous-data/"><u>Effective Techniques to Remove Superfluous Data</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-s24plus-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy S24+ FRP</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-overcome-magic-mouse-movement-errors-effortlessly/"><u>How to Overcome Magic Mouse Movement Errors Effortlessly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-finding-the-most-economical-streaming-apps-for-your-phone/"><u>In 2024, Finding the Most Economical Streaming Apps for Your Phone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/resolving-call-issues-on-your-iphone-post-ios-18-update/"><u>Resolving Call Issues on Your iPhone Post-iOS 18 Update</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-gray-areas-of-windows-10-sync-settings-expert-advice/"><u>Resolving the Gray Areas of Windows 10 Sync Settings - Expert Advice</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/sound-streaming-showdown-which-is-the-better-choice-podcast-or-youtube-in-2024/"><u>Sound Streaming Showdown Which Is the Better Choice, Podcast or YouTube, In 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/tenokan-bersama-menemukan-file-yang-hilang-pada-windows-1011-dengan-jawaban-10-cara/"><u>Tenokan Bersama: Menemukan File Yang Hilang Pada Windows 10/11 Dengan Jawaban 10 Cara!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-affordable-soundbar-systems-in-2nite-the-ultimate-2024-guide-by-techradar/"><u>Top Affordable Soundbar Systems in 2Nite: The Ultimate 2024 Guide by TechRadar</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/verlorene-excel-spreadsheet-wiederauffinden-tipps-zur-wiederherstellung-vom-desktop/"><u>Verlorene Excel Spreadsheet Wiederauffinden: Tipps Zur Wiederherstellung Vom Desktop</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/44oh44kj44k544kv44ob44kn44od44kv44gn44ov44kh44kk44or44gm5rai5asxitjganjgybjgotjgapjgablm57lvqnjgzxjgzvjgb7jgznjgys/"><u>ディスクチェックでファイルが消失!?どうやって回復させますか?</u></a></li>
 </ul></div>
 

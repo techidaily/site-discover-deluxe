@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial for Transferring Your OS From Current Boot Disk to Fresh SSD/Hard Drive
-date: 2025-02-11T17:55:36.480Z
-updated: 2025-02-18T17:17:11.989Z
+date: 2025-03-05T16:10:29.789Z
+updated: 2025-03-07T16:10:58.995Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/aea0b058dad5a8a78b7176f739897c106c85c82d6e617b0cdb68b3405d4743da.png
@@ -27,10 +27,6 @@ This page covers 4 ways on how to recover files from ransomware and offers some 
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
 Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) [![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg)](https://www.ubackup.com/data-recovery-disk/javascript:void%280%29;) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -76,10 +72,6 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
@@ -110,10 +102,6 @@ Step 3\. Click **Browse for files** to locate your lost data and choose to save 
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 3\. Get back files from ransomware using File History
 
 If you have used File History to save a copy of your precious data, you can follow the steps below to figure out how to recover encrypted files from ransomware. You can use this tool to [recover permanently deleted folders](https://tools.techidaily.com/ubackup/products/) and files on your computer as well.
@@ -122,17 +110,9 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 
 [![File History](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/file-history.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
@@ -162,10 +142,6 @@ If there is no restore point, it might be because the system protection isn't tu
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Notes:✎...
 
 Some ransomware decryption tools can help to decrypt files encrypted by ransomware. However, such tools do not fully guarantee that ransomware-encrypted files can be recovered. Thus, recovering files infected by ransomware using a ransomware recovery service like MyRecover or with the help of a backup file are the easiest and most workable ways.
@@ -179,10 +155,6 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Ransomware can't be prevented. Though there are multiple ways for you to accomplish how to recover files from ransomware, prevention is easier than rescue. We highly recommend you backup your important data periodically.
@@ -195,17 +167,9 @@ Was the provided information useful? Your vote is important to us!
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -226,10 +190,6 @@ Help Us Improve This Article
 Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Free Get MyRecover Now
 
@@ -256,20 +216,21 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-quick-and-easy-mac-screen-captures-utilizing-keyboard-shortcuts/"><u>[New] In 2024, Quick and Easy Mac Screen Captures Utilizing Keyboard Shortcuts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-8-mobile-montages-androidios-screenshot-wonders/"><u>[New] Top 8 Mobile Montages Android/iOS Screenshot Wonders</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-overcoming-microphone-challenges-in-the-latest-microsoft-os-windows-11-edition/"><u>Expert Tips: Overcoming Microphone Challenges in the Latest Microsoft OS - Windows 11 Edition</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/exploring-various-window-management-options-in-control-panels-a-guide-the-yl-tech-insight/"><u>Exploring Various Window Management Options in Control Panels: A Guide - The YL Tech Insight</u></a></li>
-<li><a href="https://discover-community.techidaily.com/gratuita-conversao-de-arquivos-m2ts-online-movivaz/"><u>Gratuita Conversão De Arquivos M2TS Online - MoviVaz</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-to-handle-an-overheating-pc-expert-tips-from-yl-computing-and-yl-software/"><u>How to Handle an Overheating PC: Expert Tips From YL Computing and YL Software</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/how-to-secure-your-virtual-coins-top-tips-from-yl-software-experts/"><u>How to Secure Your Virtual Coins: Top Tips From YL Software Experts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/lands-on-mars-unleashes-gusty-winds-a-cosmic-twist-to-urban-development/"><u>Lands on Mars, Unleashes Gusty Winds - A Cosmic Twist to Urban Development</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/preventing-data-disasters-key-system-adjustments-recommended-by-yl-software-professionals/"><u>Preventing Data Disasters: Key System Adjustments Recommended by YL Software Professionals</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/restore-damaged-file-systems-on-windows-pcs-a-comprehensive-solution-from-yl-software/"><u>Restore Damaged File Systems on Windows PCs: A Comprehensive Solution From YL Software</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-definitive-guide-to-audio-transitions-for-2024/"><u>The Definitive Guide to Audio Transitions for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/troubleshooting-out-of-paper-alerts-on-your-printer-expert-insights-from-yl-computing/"><u>Troubleshooting 'Out of Paper' Alerts on Your Printer: Expert Insights From YL Computing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/unlock-the-power-of-animation-converting-videos-into-cartoons-for-2024/"><u>Unlock the Power of Animation Converting Videos Into Cartoons for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/untangling-secure-files-on-your-pc-a-guide-to-efficiently-deleting-relocating-or-rename-locked-files-in-windows-by-professionals-at-yl-software/"><u>Untangling Secure Files on Your PC: A Guide to Efficiently Deleting, Relocating, or Rename Locked Files in Windows by Professionals at YL Software</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/zdnets-comprehensive-analysis-of-the-microsoft-surface-pro-8-for-enterprise-use/"><u>ZDNet's Comprehensive Analysis of the Microsoft Surface Pro 8 for Enterprise Use</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-battle-royale-concrete-fists-vs-digital-screens/"><u>[New] Battle Royale Concrete Fists vs Digital Screens</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-where-to-find/"><u>[New] Where to Find</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-apex-sites-for-rich-3d-experiences-with-lustrous-text-art/"><u>[Updated] Apex Sites for Rich 3D Experiences with Lustrous Text Art</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/8-best-website-for-3d-graffiti-fonts-for-2024/"><u>8 Best Website for 3D Graffiti Fonts for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/8s-lock-screen-feature/"><u>8'S Lock Screen Feature</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oneplus-open-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for OnePlus Open Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719152998849-flip-the-script-on-sharing-seamless-transfer-of-fb-content-available/"><u>Flip the Script on Sharing: Seamless Transfer of FB Content Available</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/guide-to-moving-videos-effortlessly-from-ios-to-android-galaxy-smartphones/"><u>Guide to Moving Videos Effortlessly From iOS to Android Galaxy Smartphones</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-art-of-video-resizing-tips-for-perfect-proportions/"><u>New 2024 Approved The Art of Video Resizing Tips for Perfect Proportions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-xiaomi-14-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Xiaomi 14 Phone Now with These Tips</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/simple-methods-for-moving-your-tunes-from-iphone-to-itunes/"><u>Simple Methods for Moving Your Tunes From iPhone to iTunes</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/the-ultimate-list-of-the-top-22-android-application-downloads-websites/"><u>The Ultimate List of the Top 22 Android Application Downloads Websites</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/top-recording-programs-capture-your-windows-pc-audio-effortlessly/"><u>Top Recording Programs: Capture Your Windows PC Audio Effortlessly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-discounted-laptops-for-black-friday-and-cyber-monday-2024-featured-on-zdnet/"><u>Top-Rated Discounted Laptops for Black Friday & Cyber Monday 2024 - Featured on ZDNet</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/ultimate-guide-how-to-capture-and-save-your-adobe-connect-presentations-flawlessly/"><u>Ultimate Guide: How to Capture and Save Your Adobe Connect Presentations Flawlessly</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/ultimate-tips-and-tricks-for-effective-photography-background-modifications/"><u>Ultimate Tips & Tricks for Effective Photography Background Modifications</u></a></li>
 </ul></div>
 

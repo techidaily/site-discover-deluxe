@@ -1,7 +1,7 @@
 ---
 title: "Year in Focus: Unveiling the Highlights and Milestones of PCDJ's Remarkable 201 6 Adventure"
-date: 2025-02-12T23:29:20.620Z
-updated: 2025-02-19T02:33:52.088Z
+date: 2025-03-04T16:05:23.203Z
+updated: 2025-03-07T16:20:51.350Z
 tags:
   - product
 categories:
@@ -36,10 +36,6 @@ When you’re surrounded by a great group of teammates with the same vision and 
 [LEARN MORE ABOUT DEX 3 ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2016/11/dex3-onlaptop-controller.jpg?fit=300%2C187&ssl=1 "dex3-onlaptop-controller")](https://tools.techidaily.com/pcdj/products/)
 * Released a revamped DJ controller detection protocol that allows for real-time detection of DJ controllers, even while mixing. DJs can also use up to 8 DJ controller simultaneously, with zero-configure support.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Added support for 10 [DJ controllers](https://tools.techidaily.com/pcdj/products/) from some of the biggest DJ equipment providers in the business, including support for the [Pioneer DDJ-SB2](https://tools.techidaily.com/pcdj/products/), [DDJ-RR and DDJ-RB](https://tools.techidaily.com/pcdj/products/). The [Hercules DJControl JogVision](https://tools.techidaily.com/pcdj/products/) and [Hercules P32](https://tools.techidaily.com/pcdj/products/) controllers. [Reloop RMP-4](https://tools.techidaily.com/pcdj/products/) and [Mixon 4](https://tools.techidaily.com/pcdj/products/) are also now plug-and-play with both [DEX 3](https://tools.techidaily.com/pcdj/products/) and [DEX 3 RE](https://tools.techidaily.com/pcdj/products/) DJ programs.
 * New key detection for harmonic/key mixing. Not only sync music on beat but match key for pitch-perfect blending and mashups.
 * Released the totally and entirely FREE DJ software – DEX 3 LE. A feature-rich freebie anyone can mix music with. Use with your own library, iTunes media or subscribe to Pulselocker for a massive in-app catalog of music you can both stream and/or download for offline use.
@@ -51,10 +47,6 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * Introduced improved audio and video playback engine for higher-quality, accurate playback of standard karaoke files  
 [LEARN MORE ABOUT KARAOKI ![Karaoke Software](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/karaoki-new-searchresultspane.png?fit=300%2C190&ssl=1 "Karaoke Software")](https://tools.techidaily.com/pcdj/products/)
 * New [“Search Results” view](https://tools.techidaily.com/pcdj/products/) that expands the rotation list the entire right-hand side of the Karaoki browser with search results displaying in the large middle library pane.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Added [‘Search History’ and large search pop-up](https://tools.techidaily.com/pcdj/products/) – KJs can view all their past song searches and double-click in the smaller search box to display a much larger version.
 * Karaoki can now use several new graphics formats (jpeg, png) as CDG backdrops, when loaded it can copy-convert the images to BMP’s that it can then load.
@@ -71,25 +63,13 @@ When you’re surrounded by a great group of teammates with the same vision and 
 
 [MORE ABOUT JAMMTEXT ![jammtext logo](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/09/jammtext-logo-black.png?fit=300%2C61&ssl=1 "jammtext logo")](https://tools.techidaily.com/pcdj/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 As always, we strive to be accessible to our DJ and karaoke software users. We want to ensure that when you have a question it’s answered thoroughly and professionally in a very timely fashion. We updated the PCDJ website to include a new web chat, robust support ticketing tracking system and created new [PCDJ user forums](https://tools.techidaily.com/pcdj/products/).
 
 We found new partners at MixCity Inc, the creators of [JammText](https://tools.techidaily.com/pcdj/products/) – a truly unique, social and interactive text-and-image-to-screen platform that works brilliantly alongside DEX 3 or Karaoki. We plan to bring you even more goodies and better support for JammText throughout 2017.
 
 _**That’s a good look at 2016’s highlights for PCDJ. Please check back next week for a look ahead at what our goals are for 2017!**_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Happy New Year, Friends!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -110,19 +90,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/pcdj2016yearinreview-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/78805807-new-2024-approved-your-visual-impact-journey-begins-with-our-50-free-banners/"><u>[New] 2024 Approved Your Visual Impact Journey Begins with Our 50 FREE Banners</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-innovative-way-of-merging-gopro-footage-into-continuous-360-degree-narratives/"><u>[New] Innovative Way of Merging GoPro Footage Into Continuous 360-Degree Narratives</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-depth-360-eye-viewing-experience-for-2024/"><u>[Updated] In-Depth 360° Eye Viewing Experience for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-ranking-androids-most-innovative-collage-apps/"><u>2024 Approved Ranking Android’s Most Innovative Collage Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-top-picks-of-free-online-faxing-platforms/"><u>Discover Top Picks of Free Online Faxing Platforms</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/full-peppa-pig-show-collection-simple-steps-for-hassle-free-viewing/"><u>Full Peppa Pig Show Collection - Simple Steps for Hassle-Free Viewing!</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/get-high-quality-sapo-videos-for-nothing-discover-these-4-downloading-techniques/"><u>Get High-Quality SAPO Videos for Nothing! Discover These 4 Downloading Techniques</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/maintain-high-quality-video-a-step-by-step-guide-on-how-to-upload-without-losing-clarity-to-youtube/"><u>Maintain High-Quality Video: A Step-by-Step Guide on How to Upload Without Losing Clarity to YouTube</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/nokia-x7-unleash-your-entertainment-with-classic-nokia-design/"><u>Nokia X7: Unleash Your Entertainment with Classic Nokia Design</u></a></li>
-<li><a href="https://fox-http.techidaily.com/optimize-watching-incorporating-captions-into-wmp-for-2024/"><u>Optimize Watching Incorporating Captions Into WMP for 2024</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/pc-cdsd/"><u>PC用: CDディスクをSDカードへと記録する簡単ガイド</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/quality-improvement-for-skype-video-calls/"><u>Quality Improvement for Skype Video Calls</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/sidestep-premature-edge-launch-in-win11/"><u>Sidestep Premature Edge Launch in Win11</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/pcandroidiphone/"><u>クリップした後も続く！ PC/Android/iPhone で動画の最中から切り取る究極ガイド</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-creating-synergy-how-youtube-aligns-with-brands-for-2024/"><u>[Updated] Creating Synergy How YouTube Aligns with Brands for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-integrating-picture-in-picture-into-everyday-browsing-habits/"><u>[Updated] Integrating Picture in Picture Into Everyday Browsing Habits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-streamline-your-screens-the-essential-online-record-guide/"><u>[Updated] Streamline Your Screens The Essential Online Record Guide</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/3-effective-strategies-for-swift-and-simple-recovery-of-lost-music-tracks/"><u>3 Effective Strategies for Swift and Simple Recovery of Lost Music Tracks</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/activating-the-system-restore-feature-in-microsofts-windows-7-operating-system/"><u>Activating the System Restore Feature in Microsoft's Windows 7 Operating System</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/como-migrar-su-sistema-operativo-windows-10-de-un-hdd-a-una-unidad-ssd-para-mejores-prestaciones/"><u>Cómo Migrar Su Sistema Operativo Windows 10 De Un HDD a Una Unidad SSD Para Mejores Prestaciones</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/easy-steps-to-duplicate-your-hard-drive-on-windows-11-using-the-xxclone-tool/"><u>Easy Steps to Duplicate Your Hard Drive on Windows 11 Using the XXClone Tool</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/einfache-tipps-zum-losen-von-verschlusselten-festplatten-professionelle-anleitung-fur-die-rettung-kritischer-informationen/"><u>Einfache Tipps Zum Lösen Von Verschlüsselten Festplatten: Professionelle Anleitung Für Die Rettung Kritischer Informationen</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/error-access-denied-the-webpage-doesnt-exist/"><u>Error: Access Denied - The Webpage Doesn't Exist</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-to-resolve-icloud-music-library-issue-on-itunes/"><u>How to Resolve 'iCloud Music Library' Issue on iTunes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-syncopating-songs-implementing-fades-in-logic-pro-x/"><u>In 2024, Syncopating Songs Implementing Fades in Logic Pro X</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/missing-pages-error-code-404-help-us-find-it/"><u>Missing Pages Error Code 404 – Help Us Find It!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformative-podcast-branding-through-logo-artistry-for-2024/"><u>Transformative Podcast Branding Through Logo Artistry for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-secrets-of-streaming-pc-games-via-steam-deck/"><u>Unveiling the Secrets of Streaming PC Games via Steam Deck</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-of-free-gif-loop-creators-for-2024/"><u>Updated The Ultimate List of Free GIF Loop Creators for 2024</u></a></li>
 </ul></div>
 

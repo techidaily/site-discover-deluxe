@@ -1,7 +1,7 @@
 ---
 title: 评量宋代文景之治对中国古代政治发展影响
-date: 2025-02-17T23:28:49.564Z
-updated: 2025-02-18T19:26:54.071Z
+date: 2025-03-06T16:00:29.344Z
+updated: 2025-03-07T16:07:29.748Z
 tags:
   - product
 categories:
@@ -31,10 +31,6 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Post navigation
 
 [What type of maintenance tasks should I be performing on my PC to keep it running efficiently?](https://tools.techidaily.com/pcclean/products/)
@@ -56,20 +52,20 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-best-practices-for-using-vimeo-in-instagram-shots-for-2024/"><u>[New] Best Practices for Using Vimeo in Instagram Shots for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-vegas-pro-19-review/"><u>[New] VEGAS Pro 19 Review</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-seize-your-social-media-videos-top-extensions-and-downloaders-for-firefox/"><u>[Updated] In 2024, Seize Your Social Media Videos! Top Extensions and Downloaders for Firefox</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-optimal-viewing-verticalhorizontal-in-fb-videos-for-2024/"><u>[Updated] Optimal Viewing - Vertical/Horizontal in FB Videos for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/orderly-cinema-with-t-swift-enjoy-her-movies-by-the-numbers/"><u>Orderly Cinema with T-Swift: Enjoy Her Movies by the Numbers!</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-on-converting-masterclass-content-into-popular-video-formats/"><u>Step-by-Step Guide on Converting MasterClass Content Into Popular Video Formats</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-to-saving-wrapinstitute-films-on-windows-and-macos-computers/"><u>Step-by-Step Guide to Saving Wrapinstitute Films on Windows and macOS Computers</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-downloading-learning-videos-from-stackskills/"><u>Step-by-Step Guide: Downloading Learning Videos From Stackskills</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-downloading-telewebion-content-for-offline-viewing-on-macos-and-windows/"><u>Step-by-Step Guide: Downloading Telewebion Content for Offline Viewing on macOS & Windows</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/step-by-step-tutorial-for-saving-gyao-yahoo-video-content-as-mp4-or-avi-files-across-windows-and-macos-systems/"><u>Step-by-Step Tutorial for Saving GyaO Yahoo Video Content as MP4 or AVI Files Across Windows and macOS Systems</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-smart-explorers-choice-premium-vr-gear-ranked/"><u>The Smart Explorer's Choice Premium VR Gear Ranked</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-mp4-video-encoder-professionelle-tipps-zur-komprimierung-von-mp4-dateien/"><u>Top MP4 Video Encoder - Professionelle Tipps Zur Komprimierung Von MP4 Dateien</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/topmost-replacement-for-clipgrab-discover-the-ultimate-allvidsoft-solution-for-mac-and-windows-users/"><u>Topmost Replacement for ClipGrab: Discover the Ultimate AllVidSoft Solution for Mac & Windows Users</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/transform-youtube-tunes-into-premium-soundtracks-save-as-mp3flac-using-the-powerful-mp3jam-tool/"><u>Transform YouTube Tunes Into Premium Soundtracks - Save as MP3/FLAC Using the Powerful MP3Jam Tool</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-top-picks-for-cutting-edge-websites-of-text-styling-tools/"><u>[New] In 2024, Top Picks for Cutting-Edge Websites of Text Styling Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-analyzing-hero5-black-and-yi-4k-cameras-for-modern-adventurers/"><u>[Updated] 2024 Approved Analyzing Hero5 Black & Yi 4K Cameras for Modern Adventurers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-endless-creativity-free-youtube-art-resources/"><u>[Updated] In 2024, Endless Creativity FREE YouTube Art Resources</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/aomei-backupper-pro-dban/"><u>AOMEI Backupper Pro: DBANに勝るデータ復元ツール</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-lamicall-s-tablet-support-a-focus-on-ergonomics-and-usability/"><u>Evaluating the Lamicall S Tablet Support: A Focus on Ergonomics and Usability</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fast-fix-for-windows-pc-when-it-fails-to-mirror-screen-or-project-video-output/"><u>Fast Fix for Windows PC When It Fails to Mirror Screen or Project Video Output</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-to-retrieve-lost-youtube-content-5-proven-strategies-for-video-restoration-successfully/"><u>How to Retrieve Lost YouTube Content: 5 Proven Strategies for Video Restoration Successfully</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-iphone-13-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen iPhone 13 In Different Conditionsin</u></a></li>
+<li><a href="https://driver-download.techidaily.com/improve-your-streaming-setup-complete-guide-to-downloading-logitech-hd-webcam-c525-drivers-on-windows/"><u>Improve Your Streaming Setup: Complete Guide to Downloading Logitech HD Webcam C525 Drivers on Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/missing-content-alert-the-requested-page-cannot-be-displayed/"><u>Missing Content Alert: The Requested Page Cannot Be Displayed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-infinix-smart-7-hd-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Infinix Smart 7 HD</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/solutions-de-clonage-sans-defi-transfert-facile-de-partition-sur-ssd-le-meilleur-soft/"><u>Solutions De Clonage Sans Défi : Transfert Facile De Partition Sur SSD - Le Meilleur Soft!</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/step-by-step-guide-adding-video-content-to-your-itunes-library-using-a-computer-or-iphone/"><u>Step-by-Step Guide: Adding Video Content to Your iTunes Library Using a Computer or iPhone</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/tutup-rincihan-fotografi-pada-komputer-windows-10-prosedur-detailan/"><u>Tutup Rincihan Fotografi Pada Komputer Windows 10: Prosedur Detailan</u></a></li>
 </ul></div>
 
